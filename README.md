@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Reallytics.ai+%E2%80%94+AI+Engineering+Studio;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Reallytics.ai+%E2%80%94+AI+Engineering+Studio;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
 
 <br/>
 
 **We design, build, and deploy production-grade AI systems — from conversational agents to real-time analytics — for enterprises across healthcare, finance, energy, aerospace, and retail.**
 
-[![Website](https://img.shields.io/badge/reallytics.ai-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reallytics.ai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/reallytics-ai)
-[![Email](https://img.shields.io/badge/Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@reallytics.ai)
+[![Website](https://img.shields.io/badge/reallytics.ai-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reallytics.ai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/reallytics-ai)
+[![Email](https://img.shields.io/badge/Contact_Us-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:info@reallytics.ai)
 
 </div>
 
@@ -197,8 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 We partner with companies to turn AI ambitions into production systems.
 
-[![Explore Our Work](https://img.shields.io/badge/See_Live_Demos-reallytics.ai-0969DA?style=for-the-badge)](https://reallytics.ai/)
-[![Get in Touch](https://img.shields.io/badge/Start_a_Conversation-info@reallytics.ai-EA4335?style=for-the-badge)](mailto:info@reallytics.ai)
+[![Explore Our Work](https://img.shields.io/badge/See_Live_Demos-reallytics.ai-FF0000?style=for-the-badge)](https://reallytics.ai/)
+[![Get in Touch](https://img.shields.io/badge/Start_a_Conversation-info@reallytics.ai-000000?style=for-the-badge)](mailto:info@reallytics.ai)
 
 </div>
 
