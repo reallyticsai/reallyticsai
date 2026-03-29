@@ -197,7 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 We partner with companies to turn AI ambitions into production systems.
 
-[![Explore Our Work](https://img.shields.io/badge/See_Live_Demos-reallytics.ai-FF0000?style=for-the-badge)](https://reallytics.ai/)
+[![See Full Showcase](https://img.shields.io/badge/See_Full_Product_Showcase-FF0000?style=for-the-badge)](https://github.com/reallyticsai/showcase)
+[![Explore Our Work](https://img.shields.io/badge/Live_Demos-reallytics.ai-000000?style=for-the-badge)](https://reallytics.ai/)
 [![Get in Touch](https://img.shields.io/badge/Start_a_Conversation-info@reallytics.ai-000000?style=for-the-badge)](mailto:info@reallytics.ai)
 
 </div>
