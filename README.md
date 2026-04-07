@@ -147,7 +147,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/real-time-multimodal-generative-ai-for-interactive.jpg" width="100%" alt="Real Time Multimodal Generative Ai For Interactive"/>
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/real-time-multimodal-generative-ai-for-i.jpg" width="100%" alt="Real Time Multimodal Generative Ai For Interactive"/>
 </a>
 
 **[Real Time Multimodal Generative Ai For Interactive](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md)**
