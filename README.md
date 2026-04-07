@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=reallyticsai&color=blue&style=flat-square&label=Profile+views)
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Reallytics.ai+%E2%80%94+AI+Engineering+Studio;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
 
 <br/>
