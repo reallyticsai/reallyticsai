@@ -140,7 +140,23 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Auto-generated articles with AI-crafted images — published daily to [AI-Engineering-Notes](https://github.com/reallyticsai/AI-Engineering-Notes)*
 
 <!-- ARTICLES_START -->
-*Publishing daily AI research articles — check back soon!*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/real-time-multimodal-generative-ai-for-interactive.jpg" width="100%" alt="Real Time Multimodal Generative Ai For Interactive"/>
+</a>
+
+**[Real Time Multimodal Generative Ai For Interactive](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md)**
+<br/><sub>2026-04-07</sub>
+
+</td>
+<td></td>
+</tr>
+</table>
+
+[📚 View all articles →](https://github.com/reallyticsai/AI-Engineering-Notes)
 <!-- ARTICLES_END -->
 
 ---
@@ -148,21 +164,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [GraLoRA merge_and_unload with modules_to_save error](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-07)</sub>
+💬 Commented on [Nemotron-3-Nano NemotronHTopkRouter](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-07)</sub>
+
+💬 Commented on [OpenAIResponseChatGenerator Tool Input error](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-07)</sub>
+
+⭐ Starred `promptslab/Promptify` <sub>(2026-04-07)</sub>
+
+⭐ Starred `567-labs/instructor` <sub>(2026-04-07)</sub>
+
+⭐ Starred `jxnl/instructor-go` <sub>(2026-04-07)</sub>
+
+⭐ Starred `kirill-markin/repo-to-text` <sub>(2026-04-07)</sub>
+
+⭐ Starred `cognesy/instructor-php` <sub>(2026-04-07)</sub>
 
 ⭐ Starred `stacklok/toolhive-studio` <sub>(2026-04-07)</sub>
-
-⭐ Starred `qf-studio/pilot` <sub>(2026-04-07)</sub>
-
-💬 Commented on [[Bug] Incorrect args for gradient_checkpoint_enable](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-07)</sub>
-
-💬 Commented on [Tracking: tool calling support across chat templates](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-04-07)</sub>
-
-⭐ Starred `Meirtz/Awesome-Context-Engineering` <sub>(2026-04-07)</sub>
-
-⭐ Starred `vasilyevdm/ai-agent-handbook` <sub>(2026-04-07)</sub>
-
-⭐ Starred `openlit/openlit` <sub>(2026-04-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -172,6 +188,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Multimodal Generative AI for Interactive Applications
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
@@ -185,7 +203,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-07 10:28 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-07 12:15 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
