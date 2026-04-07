@@ -132,6 +132,63 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 ---
 
+
+---
+
+## 📰 Latest AI Research Articles
+
+*Auto-generated articles with AI-crafted images — published daily to [AI-Engineering-Notes](https://github.com/reallyticsai/AI-Engineering-Notes)*
+
+<!-- ARTICLES_START -->
+*Publishing daily AI research articles — check back soon!*
+<!-- ARTICLES_END -->
+
+---
+
+## ⚡ Recent Activity
+
+<!-- ACTIVITY_START -->
+💬 Commented on [GraLoRA merge_and_unload with modules_to_save error](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-07)</sub>
+
+⭐ Starred `stacklok/toolhive-studio` <sub>(2026-04-07)</sub>
+
+⭐ Starred `qf-studio/pilot` <sub>(2026-04-07)</sub>
+
+💬 Commented on [[Bug] Incorrect args for gradient_checkpoint_enable](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-07)</sub>
+
+💬 Commented on [Tracking: tool calling support across chat templates](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-04-07)</sub>
+
+⭐ Starred `Meirtz/Awesome-Context-Engineering` <sub>(2026-04-07)</sub>
+
+⭐ Starred `vasilyevdm/ai-agent-handbook` <sub>(2026-04-07)</sub>
+
+⭐ Starred `openlit/openlit` <sub>(2026-04-07)</sub>
+<!-- ACTIVITY_END -->
+
+---
+
+## 🔬 Currently Researching
+
+*Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
+
+<!-- RESEARCH_START -->
+🔬 LLM Fine-Tuning at Scale with LoRA
+<!-- RESEARCH_END -->
+
+---
+
+## 📌 Latest Code Snippets
+
+<!-- GISTS_START -->
+📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/reallyticsai/bb06424b79385f941f8373a2e82f7b38)** <sub>(2026-04-07)</sub>
+<!-- GISTS_END -->
+
+<!-- DYNAMIC_SECTIONS_START -->
+
+<sub>🤖 Profile auto-updated on 2026-04-07 10:28 UTC</sub>
+
+<!-- DYNAMIC_SECTIONS_END -->
+
 ## Tech Stack
 
 <div align="center">
