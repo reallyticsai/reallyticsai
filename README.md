@@ -166,21 +166,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Native ML experiment tracking integration](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-08)</sub>
+
+💬 Commented on [Add torch.export.ExportedProgram (.pt2) as an export format](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-08)</sub>
+
+💬 Commented on [Support DPO `loss_type` and `loss_weights`.](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-08)</sub>
+
+⭐ Starred `Shilin-LU/MACE` <sub>(2026-04-08)</sub>
+
+⭐ Starred `invoke-ai/InvokeAI` <sub>(2026-04-08)</sub>
+
+⭐ Starred `iLearn-Lab/VLA-Diffusion-Policy-Robotics` <sub>(2026-04-08)</sub>
+
+⭐ Starred `X-GenGroup/Flow-Factory` <sub>(2026-04-08)</sub>
+
 💬 Commented on [Nemotron-3-Nano NemotronHTopkRouter](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-07)</sub>
-
-💬 Commented on [OpenAIResponseChatGenerator Tool Input error](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-07)</sub>
-
-⭐ Starred `promptslab/Promptify` <sub>(2026-04-07)</sub>
-
-⭐ Starred `567-labs/instructor` <sub>(2026-04-07)</sub>
-
-⭐ Starred `jxnl/instructor-go` <sub>(2026-04-07)</sub>
-
-⭐ Starred `kirill-markin/repo-to-text` <sub>(2026-04-07)</sub>
-
-⭐ Starred `cognesy/instructor-php` <sub>(2026-04-07)</sub>
-
-⭐ Starred `stacklok/toolhive-studio` <sub>(2026-04-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -190,6 +190,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 RAG (Retrieval-Augmented Generation) Optimization for Large-Scale Production
+
 🔬 Real-Time Multimodal Generative AI for Interactive Applications
 
 🔬 LLM Fine-Tuning at Scale with LoRA
@@ -205,7 +207,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-07 12:15 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-08 08:59 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
