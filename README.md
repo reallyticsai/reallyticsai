@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-09-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-09-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-04-09</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/real-time-multimodal-generative-ai-for-i.jpg" width="100%" alt="Real Time Multimodal Generative Ai For Interactive"/>
 </a>
@@ -154,7 +164,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-07</sub>
 
 </td>
-<td></td>
 </tr>
 </table>
 
@@ -190,6 +199,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 RAG (Retrieval-Augmented Generation) Optimization for Large-Scale Production
 
 🔬 Real-Time Multimodal Generative AI for Interactive Applications
@@ -207,7 +220,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-08 08:59 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-09 09:10 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
