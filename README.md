@@ -175,6 +175,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Non-LLM metrics (RougeScore, BleuScore, quoted_spans) have h](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-10)</sub>
+
+⭐ Starred `awslabs/data-on-eks` <sub>(2026-04-10)</sub>
+
+⭐ Starred `microsoft/Machine-Learning-Patient-Risk-Analyzer-SA` <sub>(2026-04-10)</sub>
+
+⭐ Starred `Netflix/metaflow` <sub>(2026-04-10)</sub>
+
 📝 Opened issue [[Feature] Native ML experiment tracking integration](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-08)</sub>
 
 💬 Commented on [Add torch.export.ExportedProgram (.pt2) as an export format](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-08)</sub>
@@ -182,14 +190,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [Support DPO `loss_type` and `loss_weights`.](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-08)</sub>
 
 ⭐ Starred `Shilin-LU/MACE` <sub>(2026-04-08)</sub>
-
-⭐ Starred `invoke-ai/InvokeAI` <sub>(2026-04-08)</sub>
-
-⭐ Starred `iLearn-Lab/VLA-Diffusion-Policy-Robotics` <sub>(2026-04-08)</sub>
-
-⭐ Starred `X-GenGroup/Flow-Factory` <sub>(2026-04-08)</sub>
-
-💬 Commented on [Nemotron-3-Nano NemotronHTopkRouter](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -199,6 +199,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Multimodal LLMs for Edge Devices
+
 🔬 Real-Time AI Inference Optimization
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -220,7 +222,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-09 09:10 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-10 09:05 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
