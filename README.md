@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-large-language-model-deploymen.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
+</a>
+
+**[Efficient Large Language Model Deployment](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md)**
+<br/><sub>2026-04-11</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-09-multi-agent-ai-orchestration-patterns.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-09</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md">
@@ -164,6 +176,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-07</sub>
 
 </td>
+<td></td>
 </tr>
 </table>
 
@@ -175,21 +188,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [test_fused_marlin_moe borderline tolerance failure at m=666,](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-11)</sub>
+
+💬 Commented on [Memory Leakages in the VRAM while saving the model checkpoin](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-11)</sub>
+
+⭐ Starred `skhu101/HumanLiff` <sub>(2026-04-11)</sub>
+
+⭐ Starred `huggingface/finetrainers` <sub>(2026-04-11)</sub>
+
+⭐ Starred `YoungSeng/FreeTalker` <sub>(2026-04-11)</sub>
+
 💬 Commented on [Non-LLM metrics (RougeScore, BleuScore, quoted_spans) have h](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-10)</sub>
 
 ⭐ Starred `awslabs/data-on-eks` <sub>(2026-04-10)</sub>
 
 ⭐ Starred `microsoft/Machine-Learning-Patient-Risk-Analyzer-SA` <sub>(2026-04-10)</sub>
-
-⭐ Starred `Netflix/metaflow` <sub>(2026-04-10)</sub>
-
-📝 Opened issue [[Feature] Native ML experiment tracking integration](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-08)</sub>
-
-💬 Commented on [Add torch.export.ExportedProgram (.pt2) as an export format](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-08)</sub>
-
-💬 Commented on [Support DPO `loss_type` and `loss_weights`.](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-08)</sub>
-
-⭐ Starred `Shilin-LU/MACE` <sub>(2026-04-08)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -199,6 +212,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Explainable AI for Model Debugging
+
+🔬 Efficient Large Language Model Deployment
+
 🔬 Real-Time Multimodal LLMs for Edge Devices
 
 🔬 Real-Time AI Inference Optimization
@@ -206,10 +223,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 RAG (Retrieval-Augmented Generation) Optimization for Large-Scale Production
-
-🔬 Real-Time Multimodal Generative AI for Interactive Applications
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
 ---
@@ -217,12 +230,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/reallyticsai/12b4a8957f22f2d48f26b0fbc6fbe889)** <sub>(2026-04-11)</sub>
+
 📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/reallyticsai/bb06424b79385f941f8373a2e82f7b38)** <sub>(2026-04-07)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-10 09:05 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-11 08:37 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
