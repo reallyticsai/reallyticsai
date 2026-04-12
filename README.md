@@ -188,21 +188,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[AutoDeploy][Bug]: verify accuracy tests on sharded models](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-12)</sub>
+
+⭐ Starred `Scottcjn/llama-cpp-power8` <sub>(2026-04-12)</sub>
+
+⭐ Starred `NexusGPU/tensor-fusion` <sub>(2026-04-12)</sub>
+
+⭐ Starred `jd-opensource/xllm` <sub>(2026-04-12)</sub>
+
+⭐ Starred `openvinotoolkit/openvino` <sub>(2026-04-12)</sub>
+
 💬 Commented on [test_fused_marlin_moe borderline tolerance failure at m=666,](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-11)</sub>
 
 💬 Commented on [Memory Leakages in the VRAM while saving the model checkpoin](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-11)</sub>
 
 ⭐ Starred `skhu101/HumanLiff` <sub>(2026-04-11)</sub>
-
-⭐ Starred `huggingface/finetrainers` <sub>(2026-04-11)</sub>
-
-⭐ Starred `YoungSeng/FreeTalker` <sub>(2026-04-11)</sub>
-
-💬 Commented on [Non-LLM metrics (RougeScore, BleuScore, quoted_spans) have h](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-10)</sub>
-
-⭐ Starred `awslabs/data-on-eks` <sub>(2026-04-10)</sub>
-
-⭐ Starred `microsoft/Machine-Learning-Patient-Risk-Analyzer-SA` <sub>(2026-04-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -212,6 +212,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Foundation Model Customization for Domain-Specific Applications
+
 🔬 Explainable AI for Model Debugging
 
 🔬 Efficient Large Language Model Deployment
@@ -221,8 +223,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Real-Time AI Inference Optimization
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 RAG (Retrieval-Augmented Generation) Optimization for Large-Scale Production
 <!-- RESEARCH_END -->
 
 ---
@@ -237,7 +237,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-11 08:37 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-12 08:43 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
