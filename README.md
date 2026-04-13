@@ -188,6 +188,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Feature]: run proxy as a I tool, no containers](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-13)</sub>
+
+⭐ Starred `SomeB1oody/RustyML` <sub>(2026-04-13)</sub>
+
+⭐ Starred `OpenMOSS/MOSS-Audio-Tokenizer` <sub>(2026-04-13)</sub>
+
+⭐ Starred `hemangjoshi37a/TrendMaster` <sub>(2026-04-13)</sub>
+
 💬 Commented on [[AutoDeploy][Bug]: verify accuracy tests on sharded models](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-12)</sub>
 
 ⭐ Starred `Scottcjn/llama-cpp-power8` <sub>(2026-04-12)</sub>
@@ -195,14 +203,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `NexusGPU/tensor-fusion` <sub>(2026-04-12)</sub>
 
 ⭐ Starred `jd-opensource/xllm` <sub>(2026-04-12)</sub>
-
-⭐ Starred `openvinotoolkit/openvino` <sub>(2026-04-12)</sub>
-
-💬 Commented on [test_fused_marlin_moe borderline tolerance failure at m=666,](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-11)</sub>
-
-💬 Commented on [Memory Leakages in the VRAM while saving the model checkpoin](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-11)</sub>
-
-⭐ Starred `skhu101/HumanLiff` <sub>(2026-04-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -237,7 +237,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-12 08:43 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-13 09:32 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
