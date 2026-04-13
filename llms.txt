@@ -1,0 +1,40 @@
+# Reallytics AI — AI Engineering Studio
+
+> Building production-grade AI systems — voice agents, generative AI platforms, fraud detection, and enterprise solutions.
+
+## About
+- Name: Reallytics AI
+- Role: AI Engineering Studio
+- Expertise: Voice Agents, RAG, Generative AI, Chatbots, Fraud Detection, MLOps
+- Location: Lahore, Punjab, Pakistan
+- Status: Serving enterprise clients including MARS Inc, IBM, and AWS Startups
+- GitHub: https://github.com/reallyticsai
+- Kaggle: https://www.kaggle.com/reallyticsai
+- Website: https://reallytics.ai
+
+## Core Competencies
+- Generative AI: LLM fine-tuning (LoRA, QLoRA, PEFT), RLHF (PPO, DPO), prompt engineering, function calling
+- Retrieval-Augmented Generation: FAISS, ChromaDB, PG-Vector, cross-encoder re-ranking, hybrid search
+- Agentic AI: Multi-agent orchestration, tool use, LangChain agents, autonomous workflows
+- Computer Vision: Object detection (SAM, YOLO), image segmentation, digital avatars, OCR
+- NLP: Sentiment analysis, text classification, NER, transformers (BERT, DistilBERT)
+- Voice AI: Real-time speech-to-text, speaker diarization, audio streaming (Kafka, WebSockets, gRPC)
+- MLOps: Model serving (VLLM, TorchServe), Docker, Kubernetes, CI/CD, monitoring, A/B testing
+- Cloud: AWS (SageMaker, Bedrock, Lambda, ECS), Azure, GCP, Terraform
+
+## Key Repositories
+- Agentic-AI-Workflows: Production AI agents — 8+ specialized agents using LangChain and OpenAI function calling
+- RAG-Enterprise-Search: Enterprise RAG pipeline — 2TB+ data with FAISS, ChromaDB, cross-encoder re-ranking
+- LLM-Fine-Tuning-LoRA: Fine-tuning LLaMA-2/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction
+- RLHF-LLM-Optimization: Full RLHF pipeline — SFT, reward modeling, PPO with KL divergence
+- Sentinel-AI-Fraud-Detection: Ensemble XGBoost + Isolation Forest fraud detection with 650+ features
+- Voice-AI-Platform: Real-time voice processing — 500+ concurrent calls with Kafka, gRPC, C++/CUDA
+
+## Professional Experience
+- Senior Generative AI Engineer at Reallytics.ai — Voice AI, fraud detection, autonomous agents
+- Cloud Solution Architect at Cloud Kinetics USA — AWS, Azure, GCP enterprise solutions
+- Senior ML/AI Engineer at Verticiti — RAG pipelines (2TB+), LLM fine-tuning, SAM object detection
+- Senior ML Engineer at Afiniti — Production ETL at scale, churn modeling, call routing
+
+## Last Updated
+- 2026-04-13
