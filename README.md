@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
+</a>
+
+**[Graph Rag And Knowledge Graphs For Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md)**
+<br/><sub>2026-04-14</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-large-language-model-deploymen.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-11</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-09-multi-agent-ai-orchestration-patterns.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-09</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-07-real-time-multimodal-generative-ai-for-interactive.md">
@@ -176,7 +186,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-07</sub>
 
 </td>
-<td></td>
 </tr>
 </table>
 
@@ -188,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Proposal: add MiCA (Minor Component Adaptation) as a PEFT me](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-14)</sub>
+
+💬 Commented on [Architecture Analysis: Scaling agent-to-agent communication ](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-04-14)</sub>
+
+⭐ Starred `aristoteleo/PantheonOS` <sub>(2026-04-14)</sub>
+
+⭐ Starred `griptape-ai/griptape` <sub>(2026-04-14)</sub>
+
+⭐ Starred `LazyAGI/LazyLLM` <sub>(2026-04-14)</sub>
+
+⭐ Starred `dreadnode/rigging` <sub>(2026-04-14)</sub>
+
 💬 Commented on [[Feature]: run proxy as a I tool, no containers](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-13)</sub>
 
 ⭐ Starred `SomeB1oody/RustyML` <sub>(2026-04-13)</sub>
-
-⭐ Starred `OpenMOSS/MOSS-Audio-Tokenizer` <sub>(2026-04-13)</sub>
-
-⭐ Starred `hemangjoshi37a/TrendMaster` <sub>(2026-04-13)</sub>
-
-💬 Commented on [[AutoDeploy][Bug]: verify accuracy tests on sharded models](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-12)</sub>
-
-⭐ Starred `Scottcjn/llama-cpp-power8` <sub>(2026-04-12)</sub>
-
-⭐ Starred `NexusGPU/tensor-fusion` <sub>(2026-04-12)</sub>
-
-⭐ Starred `jd-opensource/xllm` <sub>(2026-04-12)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -212,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Foundation Model Customization for Domain-Specific Applications
 
 🔬 Explainable AI for Model Debugging
@@ -221,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Real-Time Multimodal LLMs for Edge Devices
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
@@ -237,7 +246,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-13 09:32 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-14 09:14 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
