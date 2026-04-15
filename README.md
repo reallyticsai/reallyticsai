@@ -197,6 +197,12 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `DEEP-PolyU/Awesome-GraphRAG` <sub>(2026-04-15)</sub>
+
+⭐ Starred `HKUDS/LightRAG` <sub>(2026-04-15)</sub>
+
+⭐ Starred `Bessouat40/RAGLight` <sub>(2026-04-15)</sub>
+
 💬 Commented on [Proposal: add MiCA (Minor Component Adaptation) as a PEFT me](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-14)</sub>
 
 💬 Commented on [Architecture Analysis: Scaling agent-to-agent communication ](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-04-14)</sub>
@@ -206,12 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `griptape-ai/griptape` <sub>(2026-04-14)</sub>
 
 ⭐ Starred `LazyAGI/LazyLLM` <sub>(2026-04-14)</sub>
-
-⭐ Starred `dreadnode/rigging` <sub>(2026-04-14)</sub>
-
-💬 Commented on [[Feature]: run proxy as a I tool, no containers](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-13)</sub>
-
-⭐ Starred `SomeB1oody/RustyML` <sub>(2026-04-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Generative AI for High-Frequency Applications
+
+🔬 Fine-Tuning Foundation Models with Minimal Compute
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Foundation Model Customization for Domain-Specific Applications
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Explainable AI for Model Debugging
 
 🔬 Efficient Large Language Model Deployment
-
-🔬 Real-Time Multimodal LLMs for Edge Devices
-
-🔬 Real-Time AI Inference Optimization
 <!-- RESEARCH_END -->
 
 ---
@@ -246,7 +246,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-14 09:14 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-15 09:17 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
