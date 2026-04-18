@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-18)</sub>
+
+⭐ Starred `uni-medical/GMAI-VL` <sub>(2026-04-18)</sub>
+
+⭐ Starred `batmanlab/Mammo-CLIP` <sub>(2026-04-18)</sub>
+
+⭐ Starred `waybarrios/vllm-mlx` <sub>(2026-04-18)</sub>
+
+⭐ Starred `EvolvingLMMs-Lab/NEO` <sub>(2026-04-18)</sub>
+
+⭐ Starred `kyegomez/PALI3` <sub>(2026-04-18)</sub>
+
 💬 Commented on [[Feature][AutoDeploy]: Piecewise CUDA graph for MTP](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-17)</sub>
 
 💬 Commented on [[Question]: Clarification on new integration rules](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-04-17)</sub>
-
-⭐ Starred `josstei/maestro-orchestrate` <sub>(2026-04-17)</sub>
-
-⭐ Starred `JackChen-me/open-multi-agent` <sub>(2026-04-17)</sub>
-
-⭐ Starred `labsai/EDDI` <sub>(2026-04-17)</sub>
-
-⭐ Starred `Sompote/tiger_cowork` <sub>(2026-04-17)</sub>
-
-⭐ Starred `first-fluke/oh-my-agent` <sub>(2026-04-17)</sub>
-
-⭐ Starred `PrefectHQ/prefect` <sub>(2026-04-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
 🔬 Explainability Techniques for Computer Vision Models
 
 🔬 Real-Time Generative AI for High-Frequency Applications
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Foundation Model Customization for Domain-Specific Applications
-
-🔬 Explainable AI for Model Debugging
 <!-- RESEARCH_END -->
 
 ---
@@ -239,16 +239,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/reallyticsai/c1da1c1cdb4f574733903312fd03f773)** <sub>(2026-04-18)</sub>
+
 📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/reallyticsai/f7f2d08819ecf81a6592c4df2adf7c90)** <sub>(2026-04-17)</sub>
 
 📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/reallyticsai/12b4a8957f22f2d48f26b0fbc6fbe889)** <sub>(2026-04-11)</sub>
-
-📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/reallyticsai/bb06424b79385f941f8373a2e82f7b38)** <sub>(2026-04-07)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-17 09:13 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-18 08:43 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
