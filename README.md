@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-04-19</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainability-techniques-for-computer-vision-mode.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainability-techniques-for-computer-v.jpg" width="100%" alt="Explainability Techniques For Computer Vision Mode"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-17</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-14</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Efficient Large Language Model Deployment](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md)**
 <br/><sub>2026-04-11</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-09-multi-agent-ai-orchestration-patterns.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
-</a>
-
-**[Multi Agent Ai Orchestration Patterns](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-09-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-04-09</sub>
 
 </td>
 </tr>
@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [`InstructorLLM` sends deprecated `top_p` to Anthropic, causi](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-19)</sub>
+
+⭐ Starred `Unstructured-IO/unstructured` <sub>(2026-04-19)</sub>
+
+⭐ Starred `tensorflow/tflite-micro` <sub>(2026-04-19)</sub>
+
+⭐ Starred `cybergis/rs-embed` <sub>(2026-04-19)</sub>
+
 📝 Opened issue [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-18)</sub>
 
 ⭐ Starred `uni-medical/GMAI-VL` <sub>(2026-04-18)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `batmanlab/Mammo-CLIP` <sub>(2026-04-18)</sub>
 
 ⭐ Starred `waybarrios/vllm-mlx` <sub>(2026-04-18)</sub>
-
-⭐ Starred `EvolvingLMMs-Lab/NEO` <sub>(2026-04-18)</sub>
-
-⭐ Starred `kyegomez/PALI3` <sub>(2026-04-18)</sub>
-
-💬 Commented on [[Feature][AutoDeploy]: Piecewise CUDA graph for MTP](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-17)</sub>
-
-💬 Commented on [[Question]: Clarification on new integration rules](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-04-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Explainability Techniques for Computer Vision Models
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Fine-Tuning Foundation Models with Minimal Compute
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Foundation Model Customization for Domain-Specific Applications
 <!-- RESEARCH_END -->
 
 ---
@@ -239,16 +239,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/reallyticsai/9978bf3af97f3524e436301601510521)** <sub>(2026-04-19)</sub>
+
 📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/reallyticsai/c1da1c1cdb4f574733903312fd03f773)** <sub>(2026-04-18)</sub>
 
 📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/reallyticsai/f7f2d08819ecf81a6592c4df2adf7c90)** <sub>(2026-04-17)</sub>
-
-📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/reallyticsai/12b4a8957f22f2d48f26b0fbc6fbe889)** <sub>(2026-04-11)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-18 08:43 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-19 08:49 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
