@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-la.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Large Lang"/>
+</a>
+
+**[Retrieval Augmented Generation Rag In Large Lang](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md)**
+<br/><sub>2026-04-20</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-19</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainability-techniques-for-computer-vision-mode.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-17</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Graph Rag And Knowledge Graphs For Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md)**
 <br/><sub>2026-04-14</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-large-language-model-deploymen.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
-</a>
-
-**[Efficient Large Language Model Deployment](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-11-efficient-large-language-model-deployment.md)**
-<br/><sub>2026-04-11</sub>
 
 </td>
 </tr>
@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [dbt-fusion Hardcoded Row Limit on dbt seed](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-20)</sub>
+
+⭐ Starred `microsoft/benchmark-qed` <sub>(2026-04-20)</sub>
+
+⭐ Starred `Azure/GPT-RAG` <sub>(2026-04-20)</sub>
+
+⭐ Starred `SAP-samples/btp-cap-genai-rag` <sub>(2026-04-20)</sub>
+
 💬 Commented on [`InstructorLLM` sends deprecated `top_p` to Anthropic, causi](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-19)</sub>
 
 ⭐ Starred `Unstructured-IO/unstructured` <sub>(2026-04-19)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `tensorflow/tflite-micro` <sub>(2026-04-19)</sub>
 
 ⭐ Starred `cybergis/rs-embed` <sub>(2026-04-19)</sub>
-
-📝 Opened issue [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-18)</sub>
-
-⭐ Starred `uni-medical/GMAI-VL` <sub>(2026-04-18)</sub>
-
-⭐ Starred `batmanlab/Mammo-CLIP` <sub>(2026-04-18)</sub>
-
-⭐ Starred `waybarrios/vllm-mlx` <sub>(2026-04-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning and Hosting Tiny Transformer Models for Edge Devices
+
+🔬 Retrieval-Augmented Generation (RAG) in Large Language Models for Enterprise Search
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 AI Safety and Alignment Engineering
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Explainability Techniques for Computer Vision Models
 
 🔬 Real-Time Generative AI for High-Frequency Applications
-
-🔬 Fine-Tuning Foundation Models with Minimal Compute
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-19 08:49 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-20 09:57 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
