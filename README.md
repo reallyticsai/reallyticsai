@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Ring Attention w/ document packing produces different result](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-21)</sub>
+
+💬 Commented on [[Feature] Governance extension for AutoGen — policy enforcem](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-04-21)</sub>
+
+⭐ Starred `EfficientContext/ContextPilot` <sub>(2026-04-21)</sub>
+
+⭐ Starred `qualcomm/ai-hub-apps` <sub>(2026-04-21)</sub>
+
+⭐ Starred `microsoft/edgeai-for-beginners` <sub>(2026-04-21)</sub>
+
 💬 Commented on [dbt-fusion Hardcoded Row Limit on dbt seed](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-20)</sub>
 
 ⭐ Starred `microsoft/benchmark-qed` <sub>(2026-04-20)</sub>
 
 ⭐ Starred `Azure/GPT-RAG` <sub>(2026-04-20)</sub>
-
-⭐ Starred `SAP-samples/btp-cap-genai-rag` <sub>(2026-04-20)</sub>
-
-💬 Commented on [`InstructorLLM` sends deprecated `top_p` to Anthropic, causi](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-19)</sub>
-
-⭐ Starred `Unstructured-IO/unstructured` <sub>(2026-04-19)</sub>
-
-⭐ Starred `tensorflow/tflite-micro` <sub>(2026-04-19)</sub>
-
-⭐ Starred `cybergis/rs-embed` <sub>(2026-04-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-20 09:57 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-21 09:18 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
