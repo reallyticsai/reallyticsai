@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-mu.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Multi Moda"/>
+</a>
+
+**[Retrieval Augmented Generation Rag In Multi Moda](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md)**
+<br/><sub>2026-04-22</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-la.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Large Lang"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-20</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-19</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainability-techniques-for-computer-vision-mode.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Explainability Techniques For Computer Vision Mode](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainability-techniques-for-computer-vision-mode.md)**
 <br/><sub>2026-04-17</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
-</a>
-
-**[Graph Rag And Knowledge Graphs For Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-14-graph-rag-and-knowledge-graphs-for-llms.md)**
-<br/><sub>2026-04-14</sub>
 
 </td>
 </tr>
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Retrieval-Augmented Generation (RAG) in Multi-Modal Applications
+
 🔬 Fine-Tuning and Hosting Tiny Transformer Models for Edge Devices
 
 🔬 Retrieval-Augmented Generation (RAG) in Large Language Models for Enterprise Search
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 AI Safety and Alignment Engineering
 
 🔬 Explainability Techniques for Computer Vision Models
-
-🔬 Real-Time Generative AI for High-Frequency Applications
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-21 09:18 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-22 09:18 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
