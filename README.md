@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-04-23</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-mu.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Multi Moda"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-22</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-20</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Model Context Protocol And Tool Use](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md)**
 <br/><sub>2026-04-19</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainability-techniques-for-computer-vision-mode.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainability-techniques-for-computer-v.jpg" width="100%" alt="Explainability Techniques For Computer Vision Mode"/>
-</a>
-
-**[Explainability Techniques For Computer Vision Mode](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainability-techniques-for-computer-vision-mode.md)**
-<br/><sub>2026-04-17</sub>
 
 </td>
 </tr>
@@ -197,6 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Native support for ColBERT-style late interaction ](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-04-23)</sub>
+
 💬 Commented on [Ring Attention w/ document packing produces different result](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-21)</sub>
 
 💬 Commented on [[Feature] Governance extension for AutoGen — policy enforcem](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-04-21)</sub>
@@ -210,8 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [dbt-fusion Hardcoded Row Limit on dbt seed](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-20)</sub>
 
 ⭐ Starred `microsoft/benchmark-qed` <sub>(2026-04-20)</sub>
-
-⭐ Starred `Azure/GPT-RAG` <sub>(2026-04-20)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Retrieval-Augmented Generation (RAG) in Multi-Modal Applications
 
 🔬 Fine-Tuning and Hosting Tiny Transformer Models for Edge Devices
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Model Context Protocol and Tool Use
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Explainability Techniques for Computer Vision Models
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-22 09:18 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-23 09:25 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
