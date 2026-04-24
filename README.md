@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-24-efficient-deployment-of-large-language-models.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-deployment-of-large-language-m.jpg" width="100%" alt="Efficient Deployment Of Large Language Models"/>
+</a>
+
+**[Efficient Deployment Of Large Language Models](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-24-efficient-deployment-of-large-language-models.md)**
+<br/><sub>2026-04-24</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-23</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-22</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Retrieval Augmented Generation Rag In Large Lang](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md)**
 <br/><sub>2026-04-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-19-model-context-protocol-and-tool-use.md)**
-<br/><sub>2026-04-19</sub>
 
 </td>
 </tr>
@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug]: [MiniMax] Function call content is not streamed incre](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-24)</sub>
+
+⭐ Starred `TYH-labs/unsloth-buddy` <sub>(2026-04-24)</sub>
+
+⭐ Starred `datawhalechina/base-llm` <sub>(2026-04-24)</sub>
+
+⭐ Starred `FennelFetish/qapyq` <sub>(2026-04-24)</sub>
+
 📝 Opened issue [[Feature] Native support for ColBERT-style late interaction ](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-04-23)</sub>
 
 💬 Commented on [Ring Attention w/ document packing produces different result](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-21)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [[Feature] Governance extension for AutoGen — policy enforcem](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-04-21)</sub>
 
 ⭐ Starred `EfficientContext/ContextPilot` <sub>(2026-04-21)</sub>
-
-⭐ Starred `qualcomm/ai-hub-apps` <sub>(2026-04-21)</sub>
-
-⭐ Starred `microsoft/edgeai-for-beginners` <sub>(2026-04-21)</sub>
-
-💬 Commented on [dbt-fusion Hardcoded Row Limit on dbt seed](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-20)</sub>
-
-⭐ Starred `microsoft/benchmark-qed` <sub>(2026-04-20)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Efficient Deployment of Large Language Models
+
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Retrieval-Augmented Generation (RAG) in Multi-Modal Applications
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Retrieval-Augmented Generation (RAG) in Large Language Models for Enterprise Search
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-23 09:25 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-24 09:28 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
