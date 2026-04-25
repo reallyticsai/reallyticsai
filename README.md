@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-25-autonomous-ai-agents.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/autonomous-ai-agents.jpg" width="100%" alt="Autonomous Ai Agents"/>
+</a>
+
+**[Autonomous Ai Agents](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-25-autonomous-ai-agents.md)**
+<br/><sub>2026-04-25</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-24-efficient-deployment-of-large-language-models.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-deployment-of-large-language-m.jpg" width="100%" alt="Efficient Deployment Of Large Language Models"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-24</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-23</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Retrieval Augmented Generation Rag In Multi Moda](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md)**
 <br/><sub>2026-04-22</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-la.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Large Lang"/>
-</a>
-
-**[Retrieval Augmented Generation Rag In Large Lang](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-20-retrieval-augmented-generation-rag-in-large-lang.md)**
-<br/><sub>2026-04-20</sub>
 
 </td>
 </tr>
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Example: Singapore product catalog API (BuyWhere) as an agen](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-25)</sub>
+
+💬 Commented on [[Feature]: Merge Remaining Models from Sprint](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-25)</sub>
+
+⭐ Starred `Pometry/Raphtory` <sub>(2026-04-25)</sub>
+
+⭐ Starred `AlayaDB-AI/AlayaLite` <sub>(2026-04-25)</sub>
+
+⭐ Starred `oceanbase/pyseekdb` <sub>(2026-04-25)</sub>
+
 💬 Commented on [[Bug]: [MiniMax] Function call content is not streamed incre](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-24)</sub>
 
 ⭐ Starred `TYH-labs/unsloth-buddy` <sub>(2026-04-24)</sub>
 
 ⭐ Starred `datawhalechina/base-llm` <sub>(2026-04-24)</sub>
-
-⭐ Starred `FennelFetish/qapyq` <sub>(2026-04-24)</sub>
-
-📝 Opened issue [[Feature] Native support for ColBERT-style late interaction ](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-04-23)</sub>
-
-💬 Commented on [Ring Attention w/ document packing produces different result](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-21)</sub>
-
-💬 Commented on [[Feature] Governance extension for AutoGen — policy enforcem](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-04-21)</sub>
-
-⭐ Starred `EfficientContext/ContextPilot` <sub>(2026-04-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Autonomous AI Agents
+
 🔬 Efficient Deployment of Large Language Models
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Fine-Tuning and Hosting Tiny Transformer Models for Edge Devices
 
 🔬 Retrieval-Augmented Generation (RAG) in Large Language Models for Enterprise Search
-
-🔬 Model Context Protocol and Tool Use
 <!-- RESEARCH_END -->
 
 ---
@@ -239,16 +239,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/reallyticsai/00dc5fad2335e24393637d27f8e306dc)** <sub>(2026-04-25)</sub>
+
 📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/reallyticsai/9978bf3af97f3524e436301601510521)** <sub>(2026-04-19)</sub>
 
 📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/reallyticsai/c1da1c1cdb4f574733903312fd03f773)** <sub>(2026-04-18)</sub>
-
-📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/reallyticsai/f7f2d08819ecf81a6592c4df2adf7c90)** <sub>(2026-04-17)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-24 09:28 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-25 08:46 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
