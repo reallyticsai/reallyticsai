@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug]: SIGSEGV (exit 139) in chromadb.api.rust on Linux kern](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-26)</sub>
+
+💬 Commented on [FLOPs numbers are inconsistent](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-04-26)</sub>
+
+⭐ Starred `microsoft/agent-framework` <sub>(2026-04-26)</sub>
+
+⭐ Starred `Denis2054/Context-Engineering-for-Multi-Agent-Systems` <sub>(2026-04-26)</sub>
+
+⭐ Starred `sipyourdrink-ltd/bernstein` <sub>(2026-04-26)</sub>
+
+⭐ Starred `zaxbysauce/opencode-swarm` <sub>(2026-04-26)</sub>
+
 💬 Commented on [Example: Singapore product catalog API (BuyWhere) as an agen](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-25)</sub>
 
 💬 Commented on [[Feature]: Merge Remaining Models from Sprint](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-25)</sub>
-
-⭐ Starred `Pometry/Raphtory` <sub>(2026-04-25)</sub>
-
-⭐ Starred `AlayaDB-AI/AlayaLite` <sub>(2026-04-25)</sub>
-
-⭐ Starred `oceanbase/pyseekdb` <sub>(2026-04-25)</sub>
-
-💬 Commented on [[Bug]: [MiniMax] Function call content is not streamed incre](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-04-24)</sub>
-
-⭐ Starred `TYH-labs/unsloth-buddy` <sub>(2026-04-24)</sub>
-
-⭐ Starred `datawhalechina/base-llm` <sub>(2026-04-24)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-25 08:46 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-26 08:51 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
