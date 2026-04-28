@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-04-28</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-25-autonomous-ai-agents.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/autonomous-ai-agents.jpg" width="100%" alt="Autonomous Ai Agents"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-25</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-24-efficient-deployment-of-large-language-models.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-24</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Multi Agent Ai Orchestration Patterns](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md)**
 <br/><sub>2026-04-23</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-mu.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Multi Moda"/>
-</a>
-
-**[Retrieval Augmented Generation Rag In Multi Moda](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-22-retrieval-augmented-generation-rag-in-multi-moda.md)**
-<br/><sub>2026-04-22</sub>
 
 </td>
 </tr>
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `wxhcore/bumblecore` <sub>(2026-04-28)</sub>
+
+⭐ Starred `Mcourtyard/m-courtyard` <sub>(2026-04-28)</sub>
+
+⭐ Starred `MatthewK78/Rose` <sub>(2026-04-28)</sub>
+
+⭐ Starred `aiming-lab/MetaClaw` <sub>(2026-04-28)</sub>
+
+⭐ Starred `Keyvanhardani/german-ocr` <sub>(2026-04-28)</sub>
+
+💬 Commented on [Does PPOTrainer use mini_batch_size to update parameters?](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-04-27)</sub>
+
 💬 Commented on [[Bug]: SIGSEGV (exit 139) in chromadb.api.rust on Linux kern](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-26)</sub>
 
 💬 Commented on [FLOPs numbers are inconsistent](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-04-26)</sub>
-
-⭐ Starred `microsoft/agent-framework` <sub>(2026-04-26)</sub>
-
-⭐ Starred `Denis2054/Context-Engineering-for-Multi-Agent-Systems` <sub>(2026-04-26)</sub>
-
-⭐ Starred `sipyourdrink-ltd/bernstein` <sub>(2026-04-26)</sub>
-
-⭐ Starred `zaxbysauce/opencode-swarm` <sub>(2026-04-26)</sub>
-
-💬 Commented on [Example: Singapore product catalog API (BuyWhere) as an agen](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-25)</sub>
-
-💬 Commented on [[Feature]: Merge Remaining Models from Sprint](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,17 +221,17 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Production RAG Pipelines with Re-ranking
+
+🔬 Real-time Data Quality Monitoring for ML Systems
+
+🔬 Explainable AI for Deep Neural Networks
+
 🔬 Autonomous AI Agents
 
 🔬 Efficient Deployment of Large Language Models
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Retrieval-Augmented Generation (RAG) in Multi-Modal Applications
-
-🔬 Fine-Tuning and Hosting Tiny Transformer Models for Edge Devices
-
-🔬 Retrieval-Augmented Generation (RAG) in Large Language Models for Enterprise Search
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-26 08:51 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-28 10:11 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
