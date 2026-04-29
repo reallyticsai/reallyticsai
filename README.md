@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-29)</sub>
+
+💬 Commented on [how to  select cuda:4,5,6,7](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-29)</sub>
+
+⭐ Starred `holon-run/holon` <sub>(2026-04-29)</sub>
+
+⭐ Starred `larksuite/cli` <sub>(2026-04-29)</sub>
+
+⭐ Starred `hyperspaceai/agi` <sub>(2026-04-29)</sub>
+
+⭐ Starred `QwenLM/qwen-code` <sub>(2026-04-29)</sub>
+
 ⭐ Starred `wxhcore/bumblecore` <sub>(2026-04-28)</sub>
 
 ⭐ Starred `Mcourtyard/m-courtyard` <sub>(2026-04-28)</sub>
-
-⭐ Starred `MatthewK78/Rose` <sub>(2026-04-28)</sub>
-
-⭐ Starred `aiming-lab/MetaClaw` <sub>(2026-04-28)</sub>
-
-⭐ Starred `Keyvanhardani/german-ocr` <sub>(2026-04-28)</sub>
-
-💬 Commented on [Does PPOTrainer use mini_batch_size to update parameters?](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-04-27)</sub>
-
-💬 Commented on [[Bug]: SIGSEGV (exit 139) in chromadb.api.rust on Linux kern](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-26)</sub>
-
-💬 Commented on [FLOPs numbers are inconsistent](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-04-26)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning LLMs for Domain-Specific Applications
+
+🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
+
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Real-time Data Quality Monitoring for ML Systems
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Explainable AI for Deep Neural Networks
 
 🔬 Autonomous AI Agents
-
-🔬 Efficient Deployment of Large Language Models
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
@@ -239,16 +239,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/reallyticsai/fa7a9d7791a8eb43b01e6293d2464506)** <sub>(2026-04-29)</sub>
+
 📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/reallyticsai/00dc5fad2335e24393637d27f8e306dc)** <sub>(2026-04-25)</sub>
 
 📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/reallyticsai/9978bf3af97f3524e436301601510521)** <sub>(2026-04-19)</sub>
-
-📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/reallyticsai/c1da1c1cdb4f574733903312fd03f773)** <sub>(2026-04-18)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-28 10:11 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-29 10:02 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
