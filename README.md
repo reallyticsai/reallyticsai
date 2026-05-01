@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-30-retrieval-augmented-generation-rag-for-enterpris.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-e.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
+</a>
+
+**[Retrieval Augmented Generation Rag For Enterpris](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-30-retrieval-augmented-generation-rag-for-enterpris.md)**
+<br/><sub>2026-04-30</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-28</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-25-autonomous-ai-agents.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-25</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-24-efficient-deployment-of-large-language-models.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Efficient Deployment Of Large Language Models](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-24-efficient-deployment-of-large-language-models.md)**
 <br/><sub>2026-04-24</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
-</a>
-
-**[Multi Agent Ai Orchestration Patterns](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-23-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-04-23</sub>
 
 </td>
 </tr>
@@ -197,6 +197,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Saving failure](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-01)</sub>
+
+💬 Commented on [Add SwarmScore — Portable Trust Rating for AI Agents](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-04-30)</sub>
+
 📝 Opened issue [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-29)</sub>
 
 💬 Commented on [how to  select cuda:4,5,6,7](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-29)</sub>
@@ -208,10 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `hyperspaceai/agi` <sub>(2026-04-29)</sub>
 
 ⭐ Starred `QwenLM/qwen-code` <sub>(2026-04-29)</sub>
-
-⭐ Starred `wxhcore/bumblecore` <sub>(2026-04-28)</sub>
-
-⭐ Starred `Mcourtyard/m-courtyard` <sub>(2026-04-28)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning Large Language Models with LoRA and Quantization
+
+🔬 Retrieval-Augmented Generation (RAG) for Enterprise Applications
+
 🔬 Fine-Tuning LLMs for Domain-Specific Applications
 
 🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Real-time Data Quality Monitoring for ML Systems
-
-🔬 Explainable AI for Deep Neural Networks
-
-🔬 Autonomous AI Agents
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-29 10:02 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-01 09:31 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
