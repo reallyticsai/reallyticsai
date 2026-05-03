@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-03-modular-foundation-models-for-customizable-ai.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/modular-foundation-models-for-customizab.jpg" width="100%" alt="Modular Foundation Models For Customizable Ai"/>
+</a>
+
+**[Modular Foundation Models For Customizable Ai](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-03-modular-foundation-models-for-customizable-ai.md)**
+<br/><sub>2026-05-03</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-02-inference-optimization-for-large-language-models-i.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/inference-optimization-for-large-languag.jpg" width="100%" alt="Inference Optimization For Large Language Models I"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-02</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-30-retrieval-augmented-generation-rag-for-enterpris.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-04-30</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Production Rag Pipelines With Re Ranking](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md)**
 <br/><sub>2026-04-28</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-25-autonomous-ai-agents.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/autonomous-ai-agents.jpg" width="100%" alt="Autonomous Ai Agents"/>
-</a>
-
-**[Autonomous Ai Agents](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-25-autonomous-ai-agents.md)**
-<br/><sub>2026-04-25</sub>
 
 </td>
 </tr>
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Native support for hybrid retrieval scoring fusion](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-05-03)</sub>
+
+💬 Commented on [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-03)</sub>
+
+💬 Commented on [Syntax Error in temporary_patches/utils.py: Missing comma in](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-05-03)</sub>
+
+⭐ Starred `HEmile/neurosymbolic-diffusion` <sub>(2026-05-03)</sub>
+
+⭐ Starred `shaoyanpan/Synthetic-CT-generation-from-MRI-using-3D-transformer-based-denoising-diffusion-model` <sub>(2026-05-03)</sub>
+
+⭐ Starred `jiangchaokang/awesome-generative-models` <sub>(2026-05-03)</sub>
+
+⭐ Starred `modelscope/DiffSynth-Studio` <sub>(2026-05-03)</sub>
+
 💬 Commented on [[core] Split task/resource preparation utils from _raylet.py](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-02)</sub>
-
-⭐ Starred `NavodPeiris/speechlib` <sub>(2026-05-02)</sub>
-
-⭐ Starred `AkagawaTsurunaki/zerolan-core` <sub>(2026-05-02)</sub>
-
-⭐ Starred `HumeAI/hume-python-sdk` <sub>(2026-05-02)</sub>
-
-💬 Commented on [Saving failure](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-01)</sub>
-
-💬 Commented on [Add SwarmScore — Portable Trust Rating for AI Agents](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-04-30)</sub>
-
-📝 Opened issue [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-29)</sub>
-
-💬 Commented on [how to  select cuda:4,5,6,7](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-29)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Modular Foundation Models for Customizable AI
+
 🔬 Inference Optimization for Large Language Models in Production
 
 🔬 Fine-Tuning Large Language Models with LoRA and Quantization
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Fine-Tuning LLMs for Domain-Specific Applications
 
 🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
-
-🔬 Production RAG Pipelines with Re-ranking
 <!-- RESEARCH_END -->
 
 ---
@@ -239,16 +239,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/reallyticsai/32303f8f449ad2a20b211c4842b1739e)** <sub>(2026-05-03)</sub>
+
 📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/reallyticsai/98a0838585056074778306f65288489e)** <sub>(2026-05-02)</sub>
 
 📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/reallyticsai/fa7a9d7791a8eb43b01e6293d2464506)** <sub>(2026-04-29)</sub>
-
-📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/reallyticsai/00dc5fad2335e24393637d27f8e306dc)** <sub>(2026-04-25)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-02 09:01 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-03 09:16 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
