@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Feature] Update PyTorch to 2.12.0, torchvision to 0.27.0, t](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-05-04)</sub>
+
+⭐ Starred `ARahim3/mlx-tune` <sub>(2026-05-04)</sub>
+
+⭐ Starred `hiyouga/LlamaFactory` <sub>(2026-05-04)</sub>
+
+⭐ Starred `huggingface/peft` <sub>(2026-05-04)</sub>
+
 📝 Opened issue [[Feature] Native support for hybrid retrieval scoring fusion](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-05-03)</sub>
 
 💬 Commented on [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-03)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [Syntax Error in temporary_patches/utils.py: Missing comma in](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-05-03)</sub>
 
 ⭐ Starred `HEmile/neurosymbolic-diffusion` <sub>(2026-05-03)</sub>
-
-⭐ Starred `shaoyanpan/Synthetic-CT-generation-from-MRI-using-3D-transformer-based-denoising-diffusion-model` <sub>(2026-05-03)</sub>
-
-⭐ Starred `jiangchaokang/awesome-generative-models` <sub>(2026-05-03)</sub>
-
-⭐ Starred `modelscope/DiffSynth-Studio` <sub>(2026-05-03)</sub>
-
-💬 Commented on [[core] Split task/resource preparation utils from _raylet.py](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-02)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-03 09:16 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-04 10:07 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
