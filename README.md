@@ -146,6 +146,28 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-06-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-06-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-05-06</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-05-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-05-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-05-05</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-03-modular-foundation-models-for-customizable-ai.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/modular-foundation-models-for-customizab.jpg" width="100%" alt="Modular Foundation Models For Customizable Ai"/>
 </a>
@@ -165,28 +187,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-30-retrieval-augmented-generation-rag-for-enterpris.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-e.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
-</a>
-
-**[Retrieval Augmented Generation Rag For Enterpris](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-30-retrieval-augmented-generation-rag-for-enterpris.md)**
-<br/><sub>2026-04-30</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-04-28</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/reallyticsai/AI-Engineering-Notes)
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Feature] Update PyTorch to 2.12.0, torchvision to 0.27.0, t](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-05-04)</sub>
+📝 Opened issue [[Feature] Add real-time streaming evaluation for production ](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-06)</sub>
 
-⭐ Starred `ARahim3/mlx-tune` <sub>(2026-05-04)</sub>
+💬 Commented on [feat: EventTrader prediction market tool integration](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-06)</sub>
 
-⭐ Starred `hiyouga/LlamaFactory` <sub>(2026-05-04)</sub>
+💬 Commented on [在A2上运行qwen3vlmoe_full_sft_fsdp2报错AttributeError: 'Qwen3VLMoe](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-06)</sub>
 
-⭐ Starred `huggingface/peft` <sub>(2026-05-04)</sub>
+⭐ Starred `mcowger/plexus` <sub>(2026-05-06)</sub>
 
-📝 Opened issue [[Feature] Native support for hybrid retrieval scoring fusion](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-05-03)</sub>
+⭐ Starred `TIGER-AI-Lab/VLM2Vec` <sub>(2026-05-06)</sub>
 
-💬 Commented on [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-03)</sub>
+⭐ Starred `latenceainew/vllm-factory` <sub>(2026-05-06)</sub>
 
-💬 Commented on [Syntax Error in temporary_patches/utils.py: Missing comma in](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-05-03)</sub>
+⭐ Starred `unslothai/notebooks` <sub>(2026-05-06)</sub>
 
-⭐ Starred `HEmile/neurosymbolic-diffusion` <sub>(2026-05-03)</sub>
+⭐ Starred `caraml-dev/merlin` <sub>(2026-05-05)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Production RAG Pipelines with Re-ranking
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Modular Foundation Models for Customizable AI
 
 🔬 Inference Optimization for Large Language Models in Production
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Fine-Tuning Large Language Models with LoRA and Quantization
 
 🔬 Retrieval-Augmented Generation (RAG) for Enterprise Applications
-
-🔬 Fine-Tuning LLMs for Domain-Specific Applications
-
-🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
 <!-- RESEARCH_END -->
 
 ---
@@ -239,16 +239,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Token Budget Manager — LLM Context Window Optimization (Python)](https://gist.github.com/reallyticsai/10ee7f1aae9287effa1a56d28d8e0121)** <sub>(2026-05-05)</sub>
+
 📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/reallyticsai/32303f8f449ad2a20b211c4842b1739e)** <sub>(2026-05-03)</sub>
 
 📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/reallyticsai/98a0838585056074778306f65288489e)** <sub>(2026-05-02)</sub>
-
-📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/reallyticsai/fa7a9d7791a8eb43b01e6293d2464506)** <sub>(2026-04-29)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-04 10:07 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-06 10:11 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
