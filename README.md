@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-08-ai-safety-and-alignment-engineering.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
+</a>
+
+**[Ai Safety And Alignment Engineering](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-08-ai-safety-and-alignment-engineering.md)**
+<br/><sub>2026-05-08</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-07-explainability-and-fairness-in-ai-systems.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainability-and-fairness-in-ai-system.jpg" width="100%" alt="Explainability And Fairness In Ai Systems"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-07</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-06-production-rag-pipelines-with-re-ranking.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-06</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-05-llm-fine-tuning-at-scale-with-lora.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Llm Fine Tuning At Scale With Lora](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-05-llm-fine-tuning-at-scale-with-lora.md)**
 <br/><sub>2026-05-05</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-03-modular-foundation-models-for-customizable-ai.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/modular-foundation-models-for-customizab.jpg" width="100%" alt="Modular Foundation Models For Customizable Ai"/>
-</a>
-
-**[Modular Foundation Models For Customizable Ai](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-03-modular-foundation-models-for-customizable-ai.md)**
-<br/><sub>2026-05-03</sub>
 
 </td>
 </tr>
@@ -197,6 +197,12 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `LudovicTuncay/Audio-JEPA` <sub>(2026-05-08)</sub>
+
+⭐ Starred `tum-pbs/pde-transformer` <sub>(2026-05-08)</sub>
+
+⭐ Starred `AutoArk/TinyEngram` <sub>(2026-05-08)</sub>
+
 💬 Commented on [[BUG] Gateway Anthropic provider ignores `api_base` from sec](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-07)</sub>
 
 ⭐ Starred `Intellindust-AI-Lab/FSOD-VFM` <sub>(2026-05-07)</sub>
@@ -206,12 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `leejet/stable-diffusion.cpp` <sub>(2026-05-07)</sub>
 
 ⭐ Starred `mix1009/model-keyword` <sub>(2026-05-07)</sub>
-
-⭐ Starred `verl-project/verl-omni` <sub>(2026-05-07)</sub>
-
-📝 Opened issue [[Feature] Add real-time streaming evaluation for production ](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-06)</sub>
-
-💬 Commented on [feat: EventTrader prediction market tool integration](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
 🔬 Explainability and Fairness in AI Systems
 
 🔬 Production RAG Pipelines with Re-ranking
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Modular Foundation Models for Customizable AI
 
 🔬 Inference Optimization for Large Language Models in Production
-
-🔬 Fine-Tuning Large Language Models with LoRA and Quantization
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-07 10:20 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-08 09:08 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
