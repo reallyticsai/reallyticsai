@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `NVlabs/sage` <sub>(2026-05-10)</sub>
+
+⭐ Starred `modelence/modelence` <sub>(2026-05-10)</sub>
+
+⭐ Starred `leofan90/Awesome-World-Models` <sub>(2026-05-10)</sub>
+
+⭐ Starred `josephleblanc/ploke` <sub>(2026-05-10)</sub>
+
 ⭐ Starred `openai/openai-agents-python` <sub>(2026-05-09)</sub>
 
 ⭐ Starred `nottelabs/notte` <sub>(2026-05-09)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `langchain-ai/langchain` <sub>(2026-05-09)</sub>
 
 ⭐ Starred `tuya/TuyaOpen` <sub>(2026-05-09)</sub>
-
-⭐ Starred `strands-agents/evals` <sub>(2026-05-09)</sub>
-
-⭐ Starred `LudovicTuncay/Audio-JEPA` <sub>(2026-05-08)</sub>
-
-⭐ Starred `tum-pbs/pde-transformer` <sub>(2026-05-08)</sub>
-
-⭐ Starred `AutoArk/TinyEngram` <sub>(2026-05-08)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-09 09:10 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-10 09:22 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
