@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-11-real-time-model-serving-with-gpus.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/real-time-model-serving-with-gpus.jpg" width="100%" alt="Real Time Model Serving With Gpus"/>
+</a>
+
+**[Real Time Model Serving With Gpus](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-11-real-time-model-serving-with-gpus.md)**
+<br/><sub>2026-05-11</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-09-agentic-coding-assistants-architecture.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/agentic-coding-assistants-architecture.jpg" width="100%" alt="Agentic Coding Assistants Architecture"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-09</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-08-ai-safety-and-alignment-engineering.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-08</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-07-explainability-and-fairness-in-ai-systems.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Explainability And Fairness In Ai Systems](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-07-explainability-and-fairness-in-ai-systems.md)**
 <br/><sub>2026-05-07</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-06-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-06-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-05-06</sub>
 
 </td>
 </tr>
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Qwen3-VL-8B-Thinking使用cot数据进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-11)</sub>
+
+💬 Commented on [Question: integration path for Agent Threat Rules detection ](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-11)</sub>
+
+⭐ Starred `pinecone-io/examples` <sub>(2026-05-11)</sub>
+
+⭐ Starred `rocketride-org/rocketride-server` <sub>(2026-05-11)</sub>
+
+⭐ Starred `zunor/paro` <sub>(2026-05-11)</sub>
+
+⭐ Starred `unum-cloud/USearch` <sub>(2026-05-11)</sub>
+
+⭐ Starred `milvus-io/pymilvus` <sub>(2026-05-11)</sub>
+
 ⭐ Starred `NVlabs/sage` <sub>(2026-05-10)</sub>
-
-⭐ Starred `modelence/modelence` <sub>(2026-05-10)</sub>
-
-⭐ Starred `leofan90/Awesome-World-Models` <sub>(2026-05-10)</sub>
-
-⭐ Starred `josephleblanc/ploke` <sub>(2026-05-10)</sub>
-
-⭐ Starred `openai/openai-agents-python` <sub>(2026-05-09)</sub>
-
-⭐ Starred `nottelabs/notte` <sub>(2026-05-09)</sub>
-
-⭐ Starred `langchain-ai/langchain` <sub>(2026-05-09)</sub>
-
-⭐ Starred `tuya/TuyaOpen` <sub>(2026-05-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Time Series Forecasting
+
+🔬 Real-Time Model Serving with GPUs
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 AI Safety and Alignment Engineering
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Explainability and Fairness in AI Systems
 
 🔬 Production RAG Pipelines with Re-ranking
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Modular Foundation Models for Customizable AI
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-10 09:22 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-11 10:57 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
