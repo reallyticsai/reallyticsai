@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Training TTS component of the Omni modeels](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-13)</sub>
+
+⭐ Starred `asigatchov/fast-volleyball-tracking-inference` <sub>(2026-05-13)</sub>
+
+⭐ Starred `qualcomm/ai-hub-models` <sub>(2026-05-13)</sub>
+
+⭐ Starred `openvinotoolkit/model_server` <sub>(2026-05-13)</sub>
+
 💬 Commented on [🎓 Integration Proposal: CAJAL — Scientific Paper Writing Spe](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-12)</sub>
 
 💬 Commented on [Qwen3-VL-8B-Thinking使用cot数据进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-11)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [Question: integration path for Agent Threat Rules detection ](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-11)</sub>
 
 ⭐ Starred `pinecone-io/examples` <sub>(2026-05-11)</sub>
-
-⭐ Starred `rocketride-org/rocketride-server` <sub>(2026-05-11)</sub>
-
-⭐ Starred `zunor/paro` <sub>(2026-05-11)</sub>
-
-⭐ Starred `unum-cloud/USearch` <sub>(2026-05-11)</sub>
-
-⭐ Starred `milvus-io/pymilvus` <sub>(2026-05-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning Large Language Models with Parameter-Efficient Methods
+
 🔬 Fine-Tuning Small Language Models for Edge Deployment
 
 🔬 AutoML for Time Series Forecasting
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Agentic Coding Assistants Architecture
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Explainability and Fairness in AI Systems
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-12 10:28 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-13 10:16 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
