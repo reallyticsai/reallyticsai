@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Automatic LoRA rank recommendation based on datase](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-05-14)</sub>
+
+💬 Commented on [Bug: explicit dataloader iterator `_shutdown_workers()` call](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-05-14)</sub>
+
+⭐ Starred `Corbell-AI/Corbell` <sub>(2026-05-14)</sub>
+
+⭐ Starred `bgauryy/octocode-mcp` <sub>(2026-05-14)</sub>
+
+⭐ Starred `dynamics365ninja/d365fo-mcp-server` <sub>(2026-05-14)</sub>
+
+⭐ Starred `biaogebusy/web-builder` <sub>(2026-05-14)</sub>
+
+⭐ Starred `SamurAIGPT/Generative-Media-Skills` <sub>(2026-05-14)</sub>
+
 💬 Commented on [Training TTS component of the Omni modeels](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-13)</sub>
-
-⭐ Starred `asigatchov/fast-volleyball-tracking-inference` <sub>(2026-05-13)</sub>
-
-⭐ Starred `qualcomm/ai-hub-models` <sub>(2026-05-13)</sub>
-
-⭐ Starred `openvinotoolkit/model_server` <sub>(2026-05-13)</sub>
-
-💬 Commented on [🎓 Integration Proposal: CAJAL — Scientific Paper Writing Spe](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-12)</sub>
-
-💬 Commented on [Qwen3-VL-8B-Thinking使用cot数据进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-11)</sub>
-
-💬 Commented on [Question: integration path for Agent Threat Rules detection ](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-11)</sub>
-
-⭐ Starred `pinecone-io/examples` <sub>(2026-05-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-13 10:16 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-14 10:07 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
