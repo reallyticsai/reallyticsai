@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [SIGSEGV in _count and _get on Linux with HNSW length.bin sho](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-15)</sub>
+
+⭐ Starred `natolambert/rlhf-book` <sub>(2026-05-15)</sub>
+
+⭐ Starred `walkinglabs/hands-on-modern-rl` <sub>(2026-05-15)</sub>
+
+⭐ Starred `agentscope-ai/OpenJudge` <sub>(2026-05-15)</sub>
+
+⭐ Starred `hscspring/rl-llm-nlp` <sub>(2026-05-15)</sub>
+
 📝 Opened issue [[Feature] Automatic LoRA rank recommendation based on datase](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-05-14)</sub>
 
 💬 Commented on [Bug: explicit dataloader iterator `_shutdown_workers()` call](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-05-14)</sub>
 
 ⭐ Starred `Corbell-AI/Corbell` <sub>(2026-05-14)</sub>
-
-⭐ Starred `bgauryy/octocode-mcp` <sub>(2026-05-14)</sub>
-
-⭐ Starred `dynamics365ninja/d365fo-mcp-server` <sub>(2026-05-14)</sub>
-
-⭐ Starred `biaogebusy/web-builder` <sub>(2026-05-14)</sub>
-
-⭐ Starred `SamurAIGPT/Generative-Media-Skills` <sub>(2026-05-14)</sub>
-
-💬 Commented on [Training TTS component of the Omni modeels](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-14 10:07 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-15 10:14 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
