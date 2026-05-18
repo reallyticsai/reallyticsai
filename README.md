@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-18-fine-tuning-and-deployment-of-foundation-models-fo.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/fine-tuning-and-deployment-of-foundation.jpg" width="100%" alt="Fine Tuning And Deployment Of Foundation Models Fo"/>
+</a>
+
+**[Fine Tuning And Deployment Of Foundation Models Fo](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-18-fine-tuning-and-deployment-of-foundation-models-fo.md)**
+<br/><sub>2026-05-18</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-17-fine-tuning-and-deployment-of-proprietary-llms.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/fine-tuning-and-deployment-of-proprietar.jpg" width="100%" alt="Fine Tuning And Deployment Of Proprietary Llms"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-17</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-16-ai-safety-and-alignment-engineering.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-16</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-12-fine-tuning-small-language-models-for-edge-deploym.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Fine Tuning Small Language Models For Edge Deploym](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-12-fine-tuning-small-language-models-for-edge-deploym.md)**
 <br/><sub>2026-05-12</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-11-real-time-model-serving-with-gpus.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/real-time-model-serving-with-gpus.jpg" width="100%" alt="Real Time Model Serving With Gpus"/>
-</a>
-
-**[Real Time Model Serving With Gpus](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-11-real-time-model-serving-with-gpus.md)**
-<br/><sub>2026-05-11</sub>
 
 </td>
 </tr>
@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `synapseorch-ai/synapse-ai` <sub>(2026-05-18)</sub>
+
+⭐ Starred `DecapodLabs/decapod` <sub>(2026-05-18)</sub>
+
+⭐ Starred `dmae97/oh-my-kimi` <sub>(2026-05-18)</sub>
+
+⭐ Starred `openlegion-ai/openlegion` <sub>(2026-05-18)</sub>
+
 ⭐ Starred `Marker-Inc-Korea/AutoRAG` <sub>(2026-05-17)</sub>
 
 ⭐ Starred `NVIDIA-AI-Blueprints/rag` <sub>(2026-05-17)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `marcominerva/SqlDatabaseVectorSearch` <sub>(2026-05-17)</sub>
 
 ⭐ Starred `GiovanniPasq/agentic-rag-for-dummies` <sub>(2026-05-17)</sub>
-
-⭐ Starred `Danielskry/Awesome-RAG` <sub>(2026-05-17)</sub>
-
-⭐ Starred `Ais1on/CTI-RAG` <sub>(2026-05-16)</sub>
-
-⭐ Starred `LHRLAB/HyperGraphRAG` <sub>(2026-05-16)</sub>
-
-⭐ Starred `Raudaschl/rag-fusion` <sub>(2026-05-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Generative Agents in Real-Time Systems
+
+🔬 Fine-Tuning and Deployment of Foundation Models for Domain-Specific Applications
+
 🔬 Real-Time Retrieval-Augmented Generation (RAG) in Production Search Systems
 
 🔬 Fine-Tuning and Deployment of Proprietary LLMs
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Fine-Tuning Large Language Models with Parameter-Efficient Methods
-
-🔬 Fine-Tuning Small Language Models for Edge Deployment
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-17 09:34 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-18 11:40 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
