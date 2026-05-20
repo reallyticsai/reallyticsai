@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-20-edge-ai-for-real-time-computer-vision.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/edge-ai-for-real-time-computer-vision.jpg" width="100%" alt="Edge Ai For Real Time Computer Vision"/>
+</a>
+
+**[Edge Ai For Real Time Computer Vision](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-20-edge-ai-for-real-time-computer-vision.md)**
+<br/><sub>2026-05-20</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-19-explainable-ai-for-time-series-forecasting.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainable-ai-for-time-series-forecasti.jpg" width="100%" alt="Explainable Ai For Time Series Forecasting"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-19</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-18-fine-tuning-and-deployment-of-foundation-models-fo.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-18</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-17-fine-tuning-and-deployment-of-proprietary-llms.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Fine Tuning And Deployment Of Proprietary Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-17-fine-tuning-and-deployment-of-proprietary-llms.md)**
 <br/><sub>2026-05-17</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-16-ai-safety-and-alignment-engineering.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
-</a>
-
-**[Ai Safety And Alignment Engineering](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-16-ai-safety-and-alignment-engineering.md)**
-<br/><sub>2026-05-16</sub>
 
 </td>
 </tr>
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Role](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-20)</sub>
+
+⭐ Starred `DaoyuanLi2816/can-i-finetune-this` <sub>(2026-05-20)</sub>
+
+⭐ Starred `Epistates/pmetal` <sub>(2026-05-20)</sub>
+
+⭐ Starred `georgian-io/LLM-Finetuning-Toolkit` <sub>(2026-05-20)</sub>
+
+⭐ Starred `predibase/lorax` <sub>(2026-05-20)</sub>
+
+⭐ Starred `MakazhanAlpamys/Soup` <sub>(2026-05-20)</sub>
+
 📝 Opened issue [[Feature] Agent memory export/import for portable agent stat](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-19)</sub>
 
 💬 Commented on [[BUG] dependency conflict with OpenLIT](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-19)</sub>
-
-💬 Commented on [Installation Should Allow miniforge environment manager](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-05-19)</sub>
-
-⭐ Starred `xintaofei/codeg` <sub>(2026-05-19)</sub>
-
-⭐ Starred `lobehub/lobehub` <sub>(2026-05-19)</sub>
-
-⭐ Starred `ZHangZHengEric/Sage` <sub>(2026-05-19)</sub>
-
-⭐ Starred `synapseorch-ai/synapse-ai` <sub>(2026-05-18)</sub>
-
-⭐ Starred `DecapodLabs/decapod` <sub>(2026-05-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Tabular Data
+
+🔬 Edge AI for Real-Time Computer Vision
+
 🔬 Explainable AI for Time Series Forecasting
 
 🔬 Generative Agents in Real-Time Systems
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Fine-Tuning and Deployment of Foundation Models for Domain-Specific Applications
 
 🔬 Real-Time Retrieval-Augmented Generation (RAG) in Production Search Systems
-
-🔬 Fine-Tuning and Deployment of Proprietary LLMs
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-19 11:00 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-20 10:45 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
