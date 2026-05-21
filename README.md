@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [The templates documentation is pretty unreadable](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-21)</sub>
+
+💬 Commented on [[Bug]: websearch_interception not working for OpenAI provide](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-21)</sub>
+
+⭐ Starred `ion-elgreco/rivers` <sub>(2026-05-21)</sub>
+
+⭐ Starred `Avaiga/taipy` <sub>(2026-05-21)</sub>
+
+⭐ Starred `instill-ai/instill-core` <sub>(2026-05-21)</sub>
+
+⭐ Starred `bennyaustin/fabric-accelerator` <sub>(2026-05-21)</sub>
+
 💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Role](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-05-20)</sub>
 
 ⭐ Starred `DaoyuanLi2816/can-i-finetune-this` <sub>(2026-05-20)</sub>
-
-⭐ Starred `Epistates/pmetal` <sub>(2026-05-20)</sub>
-
-⭐ Starred `georgian-io/LLM-Finetuning-Toolkit` <sub>(2026-05-20)</sub>
-
-⭐ Starred `predibase/lorax` <sub>(2026-05-20)</sub>
-
-⭐ Starred `MakazhanAlpamys/Soup` <sub>(2026-05-20)</sub>
-
-📝 Opened issue [[Feature] Agent memory export/import for portable agent stat](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-19)</sub>
-
-💬 Commented on [[BUG] dependency conflict with OpenLIT](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Foundation Model Customization with Parameter-Efficient Fine-Tuning (PEFT)
+
 🔬 AutoML for Tabular Data
 
 🔬 Edge AI for Real-Time Computer Vision
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Generative Agents in Real-Time Systems
 
 🔬 Fine-Tuning and Deployment of Foundation Models for Domain-Specific Applications
-
-🔬 Real-Time Retrieval-Augmented Generation (RAG) in Production Search Systems
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-20 10:45 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-21 11:02 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
