@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-24-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-24-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-05-24</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-23-automated-machine-learning-for-feature-engineering.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-feature-e.jpg" width="100%" alt="Automated Machine Learning For Feature Engineering"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-23</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-22-retrieval-augmented-generation-rag-20-in-enterp.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-22</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-20-edge-ai-for-real-time-computer-vision.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Edge Ai For Real Time Computer Vision](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-20-edge-ai-for-real-time-computer-vision.md)**
 <br/><sub>2026-05-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-19-explainable-ai-for-time-series-forecasting.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainable-ai-for-time-series-forecasti.jpg" width="100%" alt="Explainable Ai For Time Series Forecasting"/>
-</a>
-
-**[Explainable Ai For Time Series Forecasting](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-19-explainable-ai-for-time-series-forecasting.md)**
-<br/><sub>2026-05-19</sub>
 
 </td>
 </tr>
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Automated Machine Learning for Feature Engineering
 
 🔬 Retrieval-Augmented Generation (RAG) 2.0 in Enterprise Search
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 AutoML for Tabular Data
 
 🔬 Edge AI for Real-Time Computer Vision
-
-🔬 Explainable AI for Time Series Forecasting
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-23 09:37 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-24 09:52 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
