@@ -197,6 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Feature request: bring scheduled messages to self-hosted (pa](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-25)</sub>
+
 💬 Commented on [Governance layer for CrewAI: Framework for orchestrating rol](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-23)</sub>
 
 💬 Commented on [Qwen3-VL-8B-Thinking在使用vllm推理时，为什么会重复加载数据预处理器的配置文件](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-05-23)</sub>
@@ -210,8 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `hhy-huang/HiRAG` <sub>(2026-05-22)</sub>
 
 ⭐ Starred `lehoanglong95/rag-all-in-one` <sub>(2026-05-22)</sub>
-
-⭐ Starred `IdolLab/RAGTrack` <sub>(2026-05-22)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Explainable AI for Deep Learning Models
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Automated Machine Learning for Feature Engineering
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Foundation Model Customization with Parameter-Efficient Fine-Tuning (PEFT)
 
 🔬 AutoML for Tabular Data
-
-🔬 Edge AI for Real-Time Computer Vision
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-24 09:52 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-25 11:46 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
