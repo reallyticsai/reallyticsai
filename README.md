@@ -197,6 +197,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [bug: FaithfulnessEvaluator / ContextRelevanceEvaluator silen](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-05-27)</sub>
+
+💬 Commented on [[Core] Provide a way to schedule based on filesystem objects](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-27)</sub>
+
 💬 Commented on [Feature request: bring scheduled messages to self-hosted (pa](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-25)</sub>
 
 💬 Commented on [Governance layer for CrewAI: Framework for orchestrating rol](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-23)</sub>
@@ -208,10 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `JJJYmmm/Multimodal-RoPEs` <sub>(2026-05-23)</sub>
 
 ⭐ Starred `jonyzhang2023/awesome-embodied-vla-va-vln` <sub>(2026-05-23)</sub>
-
-⭐ Starred `hhy-huang/HiRAG` <sub>(2026-05-22)</sub>
-
-⭐ Starred `lehoanglong95/rag-all-in-one` <sub>(2026-05-22)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-25 11:46 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-27 11:31 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
