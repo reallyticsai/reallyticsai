@@ -146,6 +146,28 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-30-edge-ai-for-real-time-inference.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/edge-ai-for-real-time-inference.jpg" width="100%" alt="Edge Ai For Real Time Inference"/>
+</a>
+
+**[Edge Ai For Real Time Inference](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-30-edge-ai-for-real-time-inference.md)**
+<br/><sub>2026-05-30</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-29-causal-inference-in-observational-studies.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/causal-inference-in-observational-studie.jpg" width="100%" alt="Causal Inference In Observational Studies"/>
+</a>
+
+**[Causal Inference In Observational Studies](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-29-causal-inference-in-observational-studies.md)**
+<br/><sub>2026-05-29</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-28-retrieval-augmented-generation-rag-at-scale.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-sc.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale"/>
 </a>
@@ -165,28 +187,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-23-automated-machine-learning-for-feature-engineering.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-feature-e.jpg" width="100%" alt="Automated Machine Learning For Feature Engineering"/>
-</a>
-
-**[Automated Machine Learning For Feature Engineering](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-23-automated-machine-learning-for-feature-engineering.md)**
-<br/><sub>2026-05-23</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-22-retrieval-augmented-generation-rag-20-in-enterp.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-20-in.jpg" width="100%" alt="Retrieval Augmented Generation Rag 20 In Enterp"/>
-</a>
-
-**[Retrieval Augmented Generation Rag 20 In Enterp](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-22-retrieval-augmented-generation-rag-20-in-enterp.md)**
-<br/><sub>2026-05-22</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/reallyticsai/AI-Engineering-Notes)
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `speakeasy-api/gram` <sub>(2026-05-28)</sub>
+💬 Commented on [想知道具体怎么裁切到图内呢，是裁切成红色不完整的旋转矩形还是绿色的直角梯形](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-30)</sub>
 
-⭐ Starred `volcengine/OpenViking` <sub>(2026-05-28)</sub>
+💬 Commented on [migrations default to md5 instead of sha256](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-30)</sub>
 
-⭐ Starred `jayminwest/seeds` <sub>(2026-05-28)</sub>
+⭐ Starred `dredozubov/hazmat` <sub>(2026-05-30)</sub>
 
-⭐ Starred `apify/apify-mcp-server` <sub>(2026-05-28)</sub>
+⭐ Starred `deeplethe/forkd` <sub>(2026-05-30)</sub>
 
-⭐ Starred `wecode-ai/Wegent` <sub>(2026-05-28)</sub>
+⭐ Starred `smallcloudai/refact` <sub>(2026-05-30)</sub>
 
-💬 Commented on [bug: FaithfulnessEvaluator / ContextRelevanceEvaluator silen](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-05-27)</sub>
+⭐ Starred `NousResearch/hermes-agent` <sub>(2026-05-30)</sub>
 
-💬 Commented on [[Core] Provide a way to schedule based on filesystem objects](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-05-27)</sub>
+⭐ Starred `VOBC/oh-my-coder` <sub>(2026-05-30)</sub>
 
-💬 Commented on [Feature request: bring scheduled messages to self-hosted (pa](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-25)</sub>
+💬 Commented on [[BUG]: MCP server refresh does not recover tools for legacy/](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-29)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,17 +221,17 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Explainable AI (XAI) for Model Transparency
+
+🔬 Edge AI for Real-time Inference
+
+🔬 Federated Learning for Edge AI
+
+🔬 Causal Inference in Observational Studies
+
 🔬 Fine-Tuning and Deployment of Open-Source Large Language Models (LLMs)
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale
-
-🔬 Explainable AI for Deep Learning Models
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Automated Machine Learning for Feature Engineering
-
-🔬 Retrieval-Augmented Generation (RAG) 2.0 in Enterprise Search
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-28 11:34 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-30 09:56 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
