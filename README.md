@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
+</a>
+
+**[Graph Rag And Knowledge Graphs For Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md)**
+<br/><sub>2026-05-31</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-30-edge-ai-for-real-time-inference.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/edge-ai-for-real-time-inference.jpg" width="100%" alt="Edge Ai For Real Time Inference"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-30</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-29-causal-inference-in-observational-studies.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-05-29</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-28-retrieval-augmented-generation-rag-at-scale.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Retrieval Augmented Generation Rag At Scale](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-28-retrieval-augmented-generation-rag-at-scale.md)**
 <br/><sub>2026-05-28</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-24-llm-fine-tuning-at-scale-with-lora.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
-</a>
-
-**[Llm Fine Tuning At Scale With Lora](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-24-llm-fine-tuning-at-scale-with-lora.md)**
-<br/><sub>2026-05-24</sub>
 
 </td>
 </tr>
@@ -197,6 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[BUG] @listen(or_(A, B, C)) multi-source OR listener only fi](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-31)</sub>
+
 💬 Commented on [想知道具体怎么裁切到图内呢，是裁切成红色不完整的旋转矩形还是绿色的直角梯形](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-30)</sub>
 
 💬 Commented on [migrations default to md5 instead of sha256](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-30)</sub>
@@ -210,8 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `NousResearch/hermes-agent` <sub>(2026-05-30)</sub>
 
 ⭐ Starred `VOBC/oh-my-coder` <sub>(2026-05-30)</sub>
-
-💬 Commented on [[BUG]: MCP server refresh does not recover tools for legacy/](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-05-29)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Explainable AI (XAI) for Model Transparency
 
 🔬 Edge AI for Real-time Inference
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Causal Inference in Observational Studies
 
 🔬 Fine-Tuning and Deployment of Open-Source Large Language Models (LLMs)
-
-🔬 Retrieval-Augmented Generation (RAG) at Scale
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-30 09:56 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-31 10:09 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
