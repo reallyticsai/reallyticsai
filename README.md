@@ -146,6 +146,28 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-complex-p.jpg" width="100%" alt="Automated Machine Learning For Complex Pipelines"/>
+</a>
+
+**[Automated Machine Learning For Complex Pipelines](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md)**
+<br/><sub>2026-06-02</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainability-in-computer-vision-models.jpg" width="100%" alt="Explainability In Computer Vision Models"/>
+</a>
+
+**[Explainability In Computer Vision Models](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md)**
+<br/><sub>2026-06-01</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
 </a>
@@ -165,28 +187,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-29-causal-inference-in-observational-studies.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/causal-inference-in-observational-studie.jpg" width="100%" alt="Causal Inference In Observational Studies"/>
-</a>
-
-**[Causal Inference In Observational Studies](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-29-causal-inference-in-observational-studies.md)**
-<br/><sub>2026-05-29</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-28-retrieval-augmented-generation-rag-at-scale.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-sc.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale"/>
-</a>
-
-**[Retrieval Augmented Generation Rag At Scale](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-28-retrieval-augmented-generation-rag-at-scale.md)**
-<br/><sub>2026-05-28</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/reallyticsai/AI-Engineering-Notes)
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[BUG] @listen(or_(A, B, C)) multi-source OR listener only fi](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-31)</sub>
+💬 Commented on [Bug: ToolNode._normalize_tool_response raises TypeError for ](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-02)</sub>
+
+💬 Commented on [[BUG] Tracking server OOM-killed by unbounded `GET /api/2.0/](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-02)</sub>
+
+💬 Commented on [Feature Request: Add FunASR for voice-enabled AI agents](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-01)</sub>
+
+💬 Commented on [CUDAAccelerator.setup_device(device) initializes a different](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-01)</sub>
+
+⭐ Starred `OttoRenner/Gentle-Coding` <sub>(2026-06-01)</sub>
 
 💬 Commented on [想知道具体怎么裁切到图内呢，是裁切成红色不完整的旋转矩形还是绿色的直角梯形](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-30)</sub>
 
 💬 Commented on [migrations default to md5 instead of sha256](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-30)</sub>
 
 ⭐ Starred `dredozubov/hazmat` <sub>(2026-05-30)</sub>
-
-⭐ Starred `deeplethe/forkd` <sub>(2026-05-30)</sub>
-
-⭐ Starred `smallcloudai/refact` <sub>(2026-05-30)</sub>
-
-⭐ Starred `NousResearch/hermes-agent` <sub>(2026-05-30)</sub>
-
-⭐ Starred `VOBC/oh-my-coder` <sub>(2026-05-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Automated Machine Learning for Complex Pipelines
+
+🔬 Explainability in Computer Vision Models
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Explainable AI (XAI) for Model Transparency
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Edge AI for Real-time Inference
 
 🔬 Federated Learning for Edge AI
-
-🔬 Causal Inference in Observational Studies
-
-🔬 Fine-Tuning and Deployment of Open-Source Large Language Models (LLMs)
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-31 10:09 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-02 12:00 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
