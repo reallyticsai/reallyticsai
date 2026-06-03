@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Security] SSRF bypass in Ragas](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-06-03)</sub>
+
+💬 Commented on [Allow binding `context` at the graph level (so servers don't](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-03)</sub>
+
+⭐ Starred `clearml/clearml` <sub>(2026-06-03)</sub>
+
+⭐ Starred `weifuwan/seatunnel-web` <sub>(2026-06-03)</sub>
+
 💬 Commented on [Bug: ToolNode._normalize_tool_response raises TypeError for ](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-02)</sub>
 
 💬 Commented on [[BUG] Tracking server OOM-killed by unbounded `GET /api/2.0/](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-02)</sub>
@@ -204,14 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [Feature Request: Add FunASR for voice-enabled AI agents](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-01)</sub>
 
 💬 Commented on [CUDAAccelerator.setup_device(device) initializes a different](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-01)</sub>
-
-⭐ Starred `OttoRenner/Gentle-Coding` <sub>(2026-06-01)</sub>
-
-💬 Commented on [想知道具体怎么裁切到图内呢，是裁切成红色不完整的旋转矩形还是绿色的直角梯形](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-30)</sub>
-
-💬 Commented on [migrations default to md5 instead of sha256](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-05-30)</sub>
-
-⭐ Starred `dredozubov/hazmat` <sub>(2026-05-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-02 12:00 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-03 12:30 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
