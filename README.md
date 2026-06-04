@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/generative-agents-for-autonomous-task-ex.jpg" width="100%" alt="Generative Agents For Autonomous Task Execution"/>
+</a>
+
+**[Generative Agents For Autonomous Task Execution](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md)**
+<br/><sub>2026-06-04</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-complex-p.jpg" width="100%" alt="Automated Machine Learning For Complex Pipelines"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-02</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-01</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Graph Rag And Knowledge Graphs For Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md)**
 <br/><sub>2026-05-31</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-30-edge-ai-for-real-time-inference.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/edge-ai-for-real-time-inference.jpg" width="100%" alt="Edge Ai For Real Time Inference"/>
-</a>
-
-**[Edge Ai For Real Time Inference](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-30-edge-ai-for-real-time-inference.md)**
-<br/><sub>2026-05-30</sub>
 
 </td>
 </tr>
@@ -197,6 +197,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `huggingface/alignment-handbook` <sub>(2026-06-04)</sub>
+
+⭐ Starred `Xayan/Rules.txt` <sub>(2026-06-04)</sub>
+
 💬 Commented on [[Security] SSRF bypass in Ragas](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-06-03)</sub>
 
 💬 Commented on [Allow binding `context` at the graph level (so servers don't](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-03)</sub>
@@ -208,10 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 💬 Commented on [Bug: ToolNode._normalize_tool_response raises TypeError for ](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-02)</sub>
 
 💬 Commented on [[BUG] Tracking server OOM-killed by unbounded `GET /api/2.0/](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-02)</sub>
-
-💬 Commented on [Feature Request: Add FunASR for voice-enabled AI agents](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-01)</sub>
-
-💬 Commented on [CUDAAccelerator.setup_device(device) initializes a different](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning LLMs with Retrieval-Augmented Generation (RAG)
+
+🔬 Generative Agents for Autonomous Task Execution
+
 🔬 Automated Machine Learning for Complex Pipelines
 
 🔬 Explainability in Computer Vision Models
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Explainable AI (XAI) for Model Transparency
-
-🔬 Edge AI for Real-time Inference
-
-🔬 Federated Learning for Edge AI
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-03 12:30 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-04 10:57 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
