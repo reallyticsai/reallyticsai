@@ -197,6 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Serve][LLM] Fractional GPU: auto-derived VLLM_RAY_PER_WORKE](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-05)</sub>
+
 ⭐ Starred `huggingface/alignment-handbook` <sub>(2026-06-04)</sub>
 
 ⭐ Starred `Xayan/Rules.txt` <sub>(2026-06-04)</sub>
@@ -210,8 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `weifuwan/seatunnel-web` <sub>(2026-06-03)</sub>
 
 💬 Commented on [Bug: ToolNode._normalize_tool_response raises TypeError for ](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-02)</sub>
-
-💬 Commented on [[BUG] Tracking server OOM-killed by unbounded `GET /api/2.0/](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-02)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Fine-Tuned Embeddings
+
 🔬 Fine-Tuning LLMs with Retrieval-Augmented Generation (RAG)
 
 🔬 Generative Agents for Autonomous Task Execution
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Explainability in Computer Vision Models
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Explainable AI (XAI) for Model Transparency
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-04 10:57 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-05 11:23 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
