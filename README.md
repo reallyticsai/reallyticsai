@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-large-language.jpg" width="100%" alt="Efficient Fine Tuning Of Large Language Models Usi"/>
+</a>
+
+**[Efficient Fine Tuning Of Large Language Models Usi](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md)**
+<br/><sub>2026-06-06</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/generative-agents-for-autonomous-task-ex.jpg" width="100%" alt="Generative Agents For Autonomous Task Execution"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-04</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-02</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Explainability In Computer Vision Models](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md)**
 <br/><sub>2026-06-01</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
-</a>
-
-**[Graph Rag And Knowledge Graphs For Llms](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-05-31-graph-rag-and-knowledge-graphs-for-llms.md)**
-<br/><sub>2026-05-31</sub>
 
 </td>
 </tr>
@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Tool execution sandbox: NameError 'DynamicModel' when args_j](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-06-06)</sub>
+
+💬 Commented on [Org⊕member settings overlay can produce a cross-variant agen](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-06)</sub>
+
+⭐ Starred `massgen/MassGen` <sub>(2026-06-06)</sub>
+
+⭐ Starred `yohey-w/multi-agent-shogun` <sub>(2026-06-06)</sub>
+
+⭐ Starred `voicetreelab/voicetree` <sub>(2026-06-06)</sub>
+
+⭐ Starred `kyegomez/swarms` <sub>(2026-06-06)</sub>
+
+⭐ Starred `doiito/gliding_horse` <sub>(2026-06-06)</sub>
+
 💬 Commented on [[Serve][LLM] Fractional GPU: auto-derived VLLM_RAY_PER_WORKE](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-05)</sub>
-
-⭐ Starred `huggingface/alignment-handbook` <sub>(2026-06-04)</sub>
-
-⭐ Starred `Xayan/Rules.txt` <sub>(2026-06-04)</sub>
-
-💬 Commented on [[Security] SSRF bypass in Ragas](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-06-03)</sub>
-
-💬 Commented on [Allow binding `context` at the graph level (so servers don't](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-03)</sub>
-
-⭐ Starred `clearml/clearml` <sub>(2026-06-03)</sub>
-
-⭐ Starred `weifuwan/seatunnel-web` <sub>(2026-06-03)</sub>
-
-💬 Commented on [Bug: ToolNode._normalize_tool_response raises TypeError for ](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-06-02)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Retrieval-Augmented Generation (RAG) with Vector Databases for Enterprise Search
+
+🔬 Efficient Fine-Tuning of Large Language Models Using LoRA and QLoRA
+
 🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Fine-Tuned Embeddings
 
 🔬 Fine-Tuning LLMs with Retrieval-Augmented Generation (RAG)
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Generative Agents for Autonomous Task Execution
 
 🔬 Automated Machine Learning for Complex Pipelines
-
-🔬 Explainability in Computer Vision Models
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-05 11:23 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-06 09:58 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
