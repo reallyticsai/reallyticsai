@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug]: User message on finished/idle conversation never trig](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-07)</sub>
+
+💬 Commented on [Proposal: Content-addressed adapter recipes for cross-platfo](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-06-07)</sub>
+
+⭐ Starred `kaushikb11/awesome-llm-agents` <sub>(2026-06-07)</sub>
+
+⭐ Starred `m-mizutani/gollem` <sub>(2026-06-07)</sub>
+
+⭐ Starred `mahmoudrabie/agentic-ai` <sub>(2026-06-07)</sub>
+
+⭐ Starred `framerslab/agentos` <sub>(2026-06-07)</sub>
+
 💬 Commented on [Tool execution sandbox: NameError 'DynamicModel' when args_j](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-06-06)</sub>
 
 💬 Commented on [Org⊕member settings overlay can produce a cross-variant agen](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-06)</sub>
-
-⭐ Starred `massgen/MassGen` <sub>(2026-06-06)</sub>
-
-⭐ Starred `yohey-w/multi-agent-shogun` <sub>(2026-06-06)</sub>
-
-⭐ Starred `voicetreelab/voicetree` <sub>(2026-06-06)</sub>
-
-⭐ Starred `kyegomez/swarms` <sub>(2026-06-06)</sub>
-
-⭐ Starred `doiito/gliding_horse` <sub>(2026-06-06)</sub>
-
-💬 Commented on [[Serve][LLM] Fractional GPU: auto-derived VLLM_RAY_PER_WORKE](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-05)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI on Edge Devices with TinyML
+
+🔬 Fine-Tuning and Aligning Open-Source LLMs for Domain-Specific Tasks
+
 🔬 Retrieval-Augmented Generation (RAG) with Vector Databases for Enterprise Search
 
 🔬 Efficient Fine-Tuning of Large Language Models Using LoRA and QLoRA
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Fine-Tuned Embeddings
 
 🔬 Fine-Tuning LLMs with Retrieval-Augmented Generation (RAG)
-
-🔬 Generative Agents for Autonomous Task Execution
-
-🔬 Automated Machine Learning for Complex Pipelines
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-06 09:58 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-07 10:26 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
