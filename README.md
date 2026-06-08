@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-08-explainable-ai-for-high-stakes-applications.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainable-ai-for-high-stakes-applicati.jpg" width="100%" alt="Explainable Ai For High Stakes Applications"/>
+</a>
+
+**[Explainable Ai For High Stakes Applications](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-08-explainable-ai-for-high-stakes-applications.md)**
+<br/><sub>2026-06-08</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-large-language.jpg" width="100%" alt="Efficient Fine Tuning Of Large Language Models Usi"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-06</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-04</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Automated Machine Learning For Complex Pipelines](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md)**
 <br/><sub>2026-06-02</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainability-in-computer-vision-models.jpg" width="100%" alt="Explainability In Computer Vision Models"/>
-</a>
-
-**[Explainability In Computer Vision Models](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-01-explainability-in-computer-vision-models.md)**
-<br/><sub>2026-06-01</sub>
 
 </td>
 </tr>
@@ -197,6 +197,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `KxSystems/pykx` <sub>(2026-06-08)</sub>
+
 💬 Commented on [[Bug]: User message on finished/idle conversation never trig](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-07)</sub>
 
 💬 Commented on [Proposal: Content-addressed adapter recipes for cross-platfo](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-06-07)</sub>
@@ -210,8 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `framerslab/agentos` <sub>(2026-06-07)</sub>
 
 💬 Commented on [Tool execution sandbox: NameError 'DynamicModel' when args_j](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-06-06)</sub>
-
-💬 Commented on [Org⊕member settings overlay can produce a cross-variant agen](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Data Quality Monitoring for ML Systems
+
+🔬 Explainable AI for High-Stakes Applications
+
 🔬 Real-Time AI on Edge Devices with TinyML
 
 🔬 Fine-Tuning and Aligning Open-Source LLMs for Domain-Specific Tasks
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Retrieval-Augmented Generation (RAG) with Vector Databases for Enterprise Search
 
 🔬 Efficient Fine-Tuning of Large Language Models Using LoRA and QLoRA
-
-🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Fine-Tuned Embeddings
-
-🔬 Fine-Tuning LLMs with Retrieval-Augmented Generation (RAG)
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-07 10:26 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-08 12:27 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
