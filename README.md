@@ -197,6 +197,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [perf: page poll_agent_servers conversation read in batches t](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-09)</sub>
+
+💬 Commented on [[PyPI] Missing musllinux wheels on version 1.14.2](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-06-09)</sub>
+
 ⭐ Starred `KxSystems/pykx` <sub>(2026-06-08)</sub>
 
 💬 Commented on [[Bug]: User message on finished/idle conversation never trig](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-07)</sub>
@@ -208,10 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `m-mizutani/gollem` <sub>(2026-06-07)</sub>
 
 ⭐ Starred `mahmoudrabie/agentic-ai` <sub>(2026-06-07)</sub>
-
-⭐ Starred `framerslab/agentos` <sub>(2026-06-07)</sub>
-
-💬 Commented on [Tool execution sandbox: NameError 'DynamicModel' when args_j](https://github.com/letta-ai/letta) in `letta-ai/letta` <sub>(2026-06-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Explainability Techniques for Computer Vision Models
+
+🔬 Efficient Large Language Model Deployment
+
 🔬 Real-Time Data Quality Monitoring for ML Systems
 
 🔬 Explainable AI for High-Stakes Applications
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Real-Time AI on Edge Devices with TinyML
 
 🔬 Fine-Tuning and Aligning Open-Source LLMs for Domain-Specific Tasks
-
-🔬 Retrieval-Augmented Generation (RAG) with Vector Databases for Enterprise Search
-
-🔬 Efficient Fine-Tuning of Large Language Models Using LoRA and QLoRA
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-08 12:27 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-09 10:55 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
