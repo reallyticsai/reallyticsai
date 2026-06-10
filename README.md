@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[FR] Allow remote access to Assistant for API-based provider](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-10)</sub>
+
+💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-10)</sub>
+
+⭐ Starred `sachitrafa/YourMemory` <sub>(2026-06-10)</sub>
+
+⭐ Starred `GoPlusSecurity/agentguard` <sub>(2026-06-10)</sub>
+
+⭐ Starred `Tencent/WeKnora` <sub>(2026-06-10)</sub>
+
+⭐ Starred `memex-lab/memex` <sub>(2026-06-10)</sub>
+
+⭐ Starred `manaflow-ai/cmux` <sub>(2026-06-10)</sub>
+
 💬 Commented on [perf: page poll_agent_servers conversation read in batches t](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-09)</sub>
-
-💬 Commented on [[PyPI] Missing musllinux wheels on version 1.14.2](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-06-09)</sub>
-
-⭐ Starred `KxSystems/pykx` <sub>(2026-06-08)</sub>
-
-💬 Commented on [[Bug]: User message on finished/idle conversation never trig](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-07)</sub>
-
-💬 Commented on [Proposal: Content-addressed adapter recipes for cross-platfo](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-06-07)</sub>
-
-⭐ Starred `kaushikb11/awesome-llm-agents` <sub>(2026-06-07)</sub>
-
-⭐ Starred `m-mizutani/gollem` <sub>(2026-06-07)</sub>
-
-⭐ Starred `mahmoudrabie/agentic-ai` <sub>(2026-06-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Edge AI for Real-Time Data Processing
+
+🔬 AutoML for Computer Vision
+
 🔬 Explainability Techniques for Computer Vision Models
 
 🔬 Efficient Large Language Model Deployment
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Real-Time Data Quality Monitoring for ML Systems
 
 🔬 Explainable AI for High-Stakes Applications
-
-🔬 Real-Time AI on Edge Devices with TinyML
-
-🔬 Fine-Tuning and Aligning Open-Source LLMs for Domain-Specific Tasks
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-09 10:55 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-10 11:32 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
