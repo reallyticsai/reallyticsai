@@ -37,4 +37,4 @@
 - Senior ML Engineer at Afiniti — Production ETL at scale, churn modeling, call routing
 
 ## Last Updated
-- 2026-06-09
+- 2026-06-10
