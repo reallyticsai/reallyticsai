@@ -156,6 +156,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-large-language-models-usi.jpg" width="100%" alt="How to Deploy Domain-Specific LLMs in Production with LoRA/QLoRA: Real-World Patterns and Pitfalls"/>
+</a>
+
 **[How to Deploy Domain-Specific LLMs in Production with LoRA/QLoRA: Real-World Patterns and Pitfalls](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md)**
 <br/><sub>2026-06-06</sub>
 
@@ -163,6 +167,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/generative-agents-for-autonomous-task-execution.jpg" width="100%" alt="Building Production-Grade Generative Agents for Autonomous Task Execution"/>
+</a>
 
 **[Building Production-Grade Generative Agents for Autonomous Task Execution](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md)**
 <br/><sub>2026-06-04</sub>
@@ -210,7 +218,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 ## 🔬 Currently Researching
 
-*Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
+*Topics discovered daily by our AI research engine*
 
 <!-- RESEARCH_START -->
 🔬 LLM Fine-Tuning at Scale with LoRA
@@ -240,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-10-21 10:17 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-21 10:39 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
