@@ -317,7 +317,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
 <td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/looper-insights.png" width="80" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
 <td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/cxex.png" width="80" alt="CXEX"/><br/><sub><b>CXEX</b></sub></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/raydian-cloud.png" width="80" alt="Raydian Cloud"/><br/><sub><b>Raydian Cloud</b></sub></td>
 </tr>
 </table>
 
