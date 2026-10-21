@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Reallytics.ai+%E2%80%94+AI+Engineering+Studio;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=E8302A&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Reallytics.ai+%E2%80%94+AI+Engineering+Studio;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
 
 <br/>
 
@@ -147,20 +147,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-08-explainable-ai-for-high-stakes-applications.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainable-ai-for-high-stakes-applicati.jpg" width="100%" alt="Explainable Ai For High Stakes Applications"/>
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainable-ai-for-high-stakes-applications.jpg" width="100%" alt="Unboxing Black Boxes: Using SHAP and LIME to Explain Medical Diagnosis Models"/>
 </a>
 
-**[Explainable Ai For High Stakes Applications](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-08-explainable-ai-for-high-stakes-applications.md)**
+**[Unboxing Black Boxes: Using SHAP and LIME to Explain Medical Diagnosis Models](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-08-explainable-ai-for-high-stakes-applications.md)**
 <br/><sub>2026-06-08</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-large-language.jpg" width="100%" alt="Efficient Fine Tuning Of Large Language Models Usi"/>
-</a>
-
-**[Efficient Fine Tuning Of Large Language Models Usi](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md)**
+**[How to Deploy Domain-Specific LLMs in Production with LoRA/QLoRA: Real-World Patterns and Pitfalls](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md)**
 <br/><sub>2026-06-06</sub>
 
 </td>
@@ -168,21 +164,17 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/generative-agents-for-autonomous-task-ex.jpg" width="100%" alt="Generative Agents For Autonomous Task Execution"/>
-</a>
-
-**[Generative Agents For Autonomous Task Execution](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md)**
+**[Building Production-Grade Generative Agents for Autonomous Task Execution](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md)**
 <br/><sub>2026-06-04</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-complex-p.jpg" width="100%" alt="Automated Machine Learning For Complex Pipelines"/>
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-complex-p.jpg" width="100%" alt="Automating the Automation: Using AutoML to Optimize Complex ML Pipelines in E-commerce Recommendation Systems"/>
 </a>
 
-**[Automated Machine Learning For Complex Pipelines](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md)**
+**[Automating the Automation: Using AutoML to Optimize Complex ML Pipelines in E-commerce Recommendation Systems](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md)**
 <br/><sub>2026-06-02</sub>
 
 </td>
@@ -221,17 +213,17 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
-🔬 Edge AI for Real-Time Data Processing
+🔬 LLM Fine-Tuning at Scale with LoRA
 
-🔬 AutoML for Computer Vision
+🔬 Multi-Agent AI Orchestration Patterns
 
-🔬 Explainability Techniques for Computer Vision Models
+🔬 Multi-Agent AI Orchestration Patterns
 
-🔬 Efficient Large Language Model Deployment
+🔬 AI Safety and Alignment Engineering
 
-🔬 Real-Time Data Quality Monitoring for ML Systems
+🔬 Multi-Agent AI Orchestration Patterns
 
-🔬 Explainable AI for High-Stakes Applications
+🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +240,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-10 11:32 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-21 10:17 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
