@@ -307,17 +307,17 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <table>
 <tr>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/mars.png" width="80" alt="MARS"/><br/><sub><b>MARS Inc</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/ibm.png" width="80" alt="IBM"/><br/><sub><b>IBM</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/silvertree-brands.png" width="80" alt="Silvertree Brands"/><br/><sub><b>Silvertree Brands</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/mars.png" width="80" alt="MARS"/><br/><sub><b>MARS Inc</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/ibm.png" width="80" alt="IBM"/><br/><sub><b>IBM</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/silvertree-brands.png" width="80" alt="Silvertree Brands"/><br/><sub><b>Silvertree Brands</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/looper-insights.png" width="80" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
-<td align="center" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/raydian-cloud.png" width="80" alt="Raydian Cloud"/><br/><sub><b>Raydian Cloud</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/looper-insights.png" width="80" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="https://raw.githubusercontent.com/reallyticsai/showcase/main/assets/logos/raydian-cloud.png" width="80" alt="Raydian Cloud"/><br/><sub><b>Raydian Cloud</b></sub></td>
 </tr>
 </table>
 
