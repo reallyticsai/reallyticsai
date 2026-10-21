@@ -146,6 +146,16 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-10-21-agentic-workflows-with-tool-calling-stateful-orch.md">
+<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/agentic-workflows-with-tool-calling-sta.jpg" width="100%" alt="Designing Reliable Agentic Workflows: Tool Calling, Stateful Orchestration, and Human-in-the-Loop Control"/>
+</a>
+
+**[Designing Reliable Agentic Workflows: Tool Calling, Stateful Orchestration, and Human-in-the-Loop Control](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-10-21-agentic-workflows-with-tool-calling-stateful-orch.md)**
+<br/><sub>2026-10-21</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-08-explainable-ai-for-high-stakes-applications.md">
 <img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/explainable-ai-for-high-stakes-applications.jpg" width="100%" alt="Unboxing Black Boxes: Using SHAP and LIME to Explain Medical Diagnosis Models"/>
 </a>
@@ -154,6 +164,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-08</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-06-efficient-fine-tuning-of-large-language-models-usi.md">
@@ -164,8 +176,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 <br/><sub>2026-06-06</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md">
@@ -174,16 +184,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 **[Building Production-Grade Generative Agents for Autonomous Task Execution](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-04-generative-agents-for-autonomous-task-execution.md)**
 <br/><sub>2026-06-04</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md">
-<img src="https://raw.githubusercontent.com/reallyticsai/AI-Engineering-Notes/main/images/automated-machine-learning-for-complex-p.jpg" width="100%" alt="Automating the Automation: Using AutoML to Optimize Complex ML Pipelines in E-commerce Recommendation Systems"/>
-</a>
-
-**[Automating the Automation: Using AutoML to Optimize Complex ML Pipelines in E-commerce Recommendation Systems](https://github.com/reallyticsai/AI-Engineering-Notes/blob/main/articles/2026-06-02-automated-machine-learning-for-complex-pipelines.md)**
-<br/><sub>2026-06-02</sub>
 
 </td>
 </tr>
@@ -197,21 +197,15 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[FR] Allow remote access to Assistant for API-based provider](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-10)</sub>
+💬 Commented on [OpenAI raw streaming tool-call messages without content rais](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-10-21)</sub>
 
-💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-10)</sub>
+💬 Commented on [Memory-efficient PiSSA initialization for 4-bit models (`rep](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-10-21)</sub>
 
-⭐ Starred `sachitrafa/YourMemory` <sub>(2026-06-10)</sub>
+⭐ Starred `arkorlab/fine-tuning` <sub>(2026-10-21)</sub>
 
-⭐ Starred `GoPlusSecurity/agentguard` <sub>(2026-06-10)</sub>
+⭐ Starred `revaldianggara/PEFT-SingLoRA` <sub>(2026-10-21)</sub>
 
-⭐ Starred `Tencent/WeKnora` <sub>(2026-06-10)</sub>
-
-⭐ Starred `memex-lab/memex` <sub>(2026-06-10)</sub>
-
-⭐ Starred `manaflow-ai/cmux` <sub>(2026-06-10)</sub>
-
-💬 Commented on [perf: page poll_agent_servers conversation read in batches t](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-09)</sub>
+⭐ Starred `calmrocks/ai-engineer-notebooks` <sub>(2026-10-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,13 +215,13 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by our AI research engine*
 
 <!-- RESEARCH_START -->
+🔬 Production RAG 2.0: hybrid retrieval, rerankers, and long-context routing
+
+🔬 Agentic workflows with tool calling, stateful orchestration, and human-in-the-loop control
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 AI Safety and Alignment Engineering
 
 🔬 Multi-Agent AI Orchestration Patterns
 
@@ -248,7 +242,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-10-21 11:44 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-21 13:24 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
