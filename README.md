@@ -197,6 +197,14 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `Kain-90/RAG-Play` <sub>(2026-10-22)</sub>
+
+⭐ Starred `NirDiamant/RAG_Techniques` <sub>(2026-10-22)</sub>
+
+⭐ Starred `microsoft/graphrag` <sub>(2026-10-22)</sub>
+
+⭐ Starred `Azure-Samples/azure-openai-rag-workshop` <sub>(2026-10-22)</sub>
+
 💬 Commented on [OpenAI raw streaming tool-call messages without content rais](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-10-21)</sub>
 
 💬 Commented on [Memory-efficient PiSSA initialization for 4-bit models (`rep](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-10-21)</sub>
@@ -204,8 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `arkorlab/fine-tuning` <sub>(2026-10-21)</sub>
 
 ⭐ Starred `revaldianggara/PEFT-SingLoRA` <sub>(2026-10-21)</sub>
-
-⭐ Starred `calmrocks/ai-engineer-notebooks` <sub>(2026-10-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -215,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by our AI research engine*
 
 <!-- RESEARCH_START -->
+🔬 Agentic Coding Assistants Architecture
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Production RAG 2.0: hybrid retrieval, rerankers, and long-context routing
 
 🔬 Agentic workflows with tool calling, stateful orchestration, and human-in-the-loop control
@@ -222,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
@@ -242,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-10-21 13:24 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-22 13:31 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
