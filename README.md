@@ -197,6 +197,12 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `langchain4j/langchain4j` <sub>(2026-10-23)</sub>
+
+⭐ Starred `i-am-bee/beeai-framework` <sub>(2026-10-23)</sub>
+
+💬 Commented on [reconstruct / ArrayInvertedLists accessors miss the bounds c](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-10-22)</sub>
+
 ⭐ Starred `Kain-90/RAG-Play` <sub>(2026-10-22)</sub>
 
 ⭐ Starred `NirDiamant/RAG_Techniques` <sub>(2026-10-22)</sub>
@@ -206,12 +212,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ⭐ Starred `Azure-Samples/azure-openai-rag-workshop` <sub>(2026-10-22)</sub>
 
 💬 Commented on [OpenAI raw streaming tool-call messages without content rais](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-10-21)</sub>
-
-💬 Commented on [Memory-efficient PiSSA initialization for 4-bit models (`rep](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-10-21)</sub>
-
-⭐ Starred `arkorlab/fine-tuning` <sub>(2026-10-21)</sub>
-
-⭐ Starred `revaldianggara/PEFT-SingLoRA` <sub>(2026-10-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-10-22 13:31 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-23 13:00 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
