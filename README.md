@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [MinGW build faillure](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-10-24)</sub>
+
+💬 Commented on [Make the 90-day default partition window in the Materialize ](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-10-24)</sub>
+
+⭐ Starred `Sudharsanselvaraj/Token-Print` <sub>(2026-10-24)</sub>
+
+⭐ Starred `sahibzada-allahyar/Obsidian-Memory-Transformer` <sub>(2026-10-24)</sub>
+
+⭐ Starred `walkinglabs/modern-llm-notebook` <sub>(2026-10-24)</sub>
+
+💬 Commented on [Integration proposal: docs page for using Ragas with hieevas](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-10-23)</sub>
+
+⭐ Starred `langchain-ai/langgraph` <sub>(2026-10-23)</sub>
+
 ⭐ Starred `langchain4j/langchain4j` <sub>(2026-10-23)</sub>
-
-⭐ Starred `i-am-bee/beeai-framework` <sub>(2026-10-23)</sub>
-
-💬 Commented on [reconstruct / ArrayInvertedLists accessors miss the bounds c](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-10-22)</sub>
-
-⭐ Starred `Kain-90/RAG-Play` <sub>(2026-10-22)</sub>
-
-⭐ Starred `NirDiamant/RAG_Techniques` <sub>(2026-10-22)</sub>
-
-⭐ Starred `microsoft/graphrag` <sub>(2026-10-22)</sub>
-
-⭐ Starred `Azure-Samples/azure-openai-rag-workshop` <sub>(2026-10-22)</sub>
-
-💬 Commented on [OpenAI raw streaming tool-call messages without content rais](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-10-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,10 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by our AI research engine*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -228,10 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Production RAG 2.0: hybrid retrieval, rerankers, and long-context routing
 
 🔬 Agentic workflows with tool calling, stateful orchestration, and human-in-the-loop control
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-10-23 13:00 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-24 12:35 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
