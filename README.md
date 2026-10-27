@@ -197,21 +197,21 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `bhensley5/overgraph` <sub>(2026-10-27)</sub>
+
+⭐ Starred `cbtw-apac/qdrant-loader` <sub>(2026-10-27)</sub>
+
+⭐ Starred `pinecone-io/python-sdk` <sub>(2026-10-27)</sub>
+
+⭐ Starred `parqdb-io/parqdb` <sub>(2026-10-27)</sub>
+
+💬 Commented on [OpenAILLM ignores usage-only streaming chunks with empty cho](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-10-26)</sub>
+
+💬 Commented on [[FR] compare_evaluations: non-regression gate and multiple-c](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-10-26)</sub>
+
 ⭐ Starred `rapiddweller/datamimic` <sub>(2026-10-26)</sub>
 
 ⭐ Starred `kafein-technology/KAI-Flow` <sub>(2026-10-26)</sub>
-
-⭐ Starred `durable-workflow/workflow` <sub>(2026-10-26)</sub>
-
-⭐ Starred `kestra-io/kestra` <sub>(2026-10-26)</sub>
-
-💬 Commented on [Performance improvements for intruder dimension reduction](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-10-25)</sub>
-
-💬 Commented on [MinGW build faillure](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-10-24)</sub>
-
-💬 Commented on [Make the 90-day default partition window in the Materialize ](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-10-24)</sub>
-
-⭐ Starred `Sudharsanselvaraj/Token-Print` <sub>(2026-10-24)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -221,6 +221,8 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 *Topics discovered daily by our AI research engine*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 AI Safety and Alignment Engineering
@@ -230,8 +232,6 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 🔬 Real-Time AI Inference Optimization
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Agentic Coding Assistants Architecture
 <!-- RESEARCH_END -->
 
 ---
@@ -248,7 +248,7 @@ Purpose-built AI pipelines for **content at scale**: product ad generation with 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-10-26 14:50 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-10-27 13:52 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
